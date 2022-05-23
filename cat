@@ -1,39 +1,5 @@
 {
 
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
-
-//"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-
-# spider (择一使用👇)
-
-## 01.🐼缝合接口
-
-"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/meow/meowcustom_spider.jar",
-
-## 02.🐉明接口
-
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/meow/meowxm.jar",
-
-## 03.🐱S接口
-
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/meow/meowbaikan.jar",
-
-# 直播 (择一使用👇)
-
-## 01.🦋直播
-
-## --> spider 改 meowbaikan.jar 或 meowcustom_spider.jar
-
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9PbmVDbGlja1J1bi9yYXcvbWFzdGVyL21lb3cvbWVvd2xpdmUudHh0"]}]}],
-
-## 02.🦋直播
-
-## --> spider 改 meowxm.jar
-
-## --> 使用 "02.🐉明接口"时,直播要改成 "02.🦋直播 ", 适配 "🐉设置直播为首页" 这个功能)
-
-//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=tvfix&type=list"]}]}],
-
 "sites":[
 
 #18+
