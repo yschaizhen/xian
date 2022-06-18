@@ -2937,6 +2937,80 @@
   "bfbiaotiqian": "<span>",
   "bfbiaotihou": "</span>",
   "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""}
+  "bflianjiehou": "\""},
+更改
+，包括
+1 次插入
+和
+58 次删除
+空白符号
+分列视图
+Diff 选项
+59
+biubiu.json
+Unescape
+查看文件
+@ -247,64 +247,7 @@
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\""},
+
+{"name": "傷害影視",
+"url": "https://www.aiaiys.top",
+"tihuan": "cnzz.com",
+"User": "空",
+"shouye": "1",
+"fenlei": "AV1$/vodtype/2--------#AV2$/vodtype/3--------#AV3$/vodtype/4--------#AV4$/vodtype/5--------#AV5$/vodtype/6--------#AV6$/vodtype/8--------#AV7$/vodtype/113--------#AV8$/vodtype/115-------#倫理$/vodtype/27--------",
+"houzhui": "---.html",
+"shifouercijiequ": "0",
+"jiequqian": "box movie_list",
+"jiequhou": "</ul>",
+"jiequshuzuqian": "class=\"module-item-pic",
+"jiequshuzuhou": "</div>",
+"tupianqian": "data-src=\"",
+"tupianhou": "\"",
+"biaotiqian": "alt=\"",
+"biaotihou":  "\"",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/",
+"ssmoshi": "0",
+"sousuoshifouercijiequ": "0",
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"sort-item",
+"bfjiequshuzuhou": "</div>",
+"zhuangtaiqian": "类型：<span>",
+"zhuangtaihou": "</span>",
+"daoyanqian": "<strong>",
+"daoyanhou": "</strong>",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "</p>",
+"juqingqian": "简介：</span>",
+"juqinghou": "</p>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": "<span>",
+"bfbiaotihou": "</span>",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\""}
 ]
 }
