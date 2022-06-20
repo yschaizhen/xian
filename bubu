@@ -2885,7 +2885,7 @@
   "tihuan": "cnzz.com",
   "User": "User-Agent:Dart/2.14 (dart:io)",
   //"fenlei": "Netflix美剧$/label/netflix/page-#电视剧$/vodtype/2-#电影$/vodtype/1-#福利$/vodtype/124-#综艺纪录片$/vodtype/3-#动漫$/vodtype/4-#港台剧$/vodtype/15-#日韩剧$/vodtype/44-#欧美剧$/vodtype/45-",
-  "fenlei": "电影$/vodshow/1--------#国产剧$/vodshow/13--------#港台剧$/vodshow/15--------#综艺$/vodshow/3--------#福利$/vodshow/124-----------#动漫$/vodshow/4--------",
+  "fenlei": "电影$/vodshow/1--------#国产剧$/vodshow/13--------#港台剧$/vodshow/15--------#综艺$/vodshow/3--------#福利$/vodshow/124--------#动漫$/vodshow/4--------",
   "houzhui": "---.html",
   "shifouercijiequ": "1",
   "jiequqian": "module-page",
