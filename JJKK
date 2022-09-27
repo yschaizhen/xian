@@ -2,7 +2,7 @@
   "urls": [
     {
       "url": "http://52bsj.vip:98/wuai",
-      "name": "吾爱"
+      "name": "吾爱测评"
     },
      {
       "url": "http://miaotvs.cn/meow",
@@ -20,6 +20,14 @@
       "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
       "name": "云星哔哩〔大套餐/学堂等〕"
     },
+    {
+      "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+      "name": "甜蜜"
+    },
+     {
+      "url": "https://gitcode.net/bd/v/-/raw/main/8.txt",
+      "name": "待定"
+    },
      {
       "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
        "name": "佰欣园〔33〕线路"
@@ -30,11 +38,11 @@
     },
 {
       "url": "https://raw.githubusercontents.com/yschaizhen/xian/main/he",
-      "name": "福利1"
+      "name": "XXXXXZ"
     },
 {
       "url": "http://shuyuan.miaogongzi.net/shuyuan/1663651243.txt",
-      "name": "福利2"
+      "name": "XXXXXX"
     }, 
     {
      "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/18.json",
@@ -46,7 +54,7 @@
 },
     {
        "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
-      "name": "xxx"
+      "name": "XXXXXX"
 }
 ]
 }
