@@ -42,8 +42,16 @@
     },
 {
       "url": "http://shuyuan.miaogongzi.net/shuyuan/1663651243.txt",
-      "name": "XXXXXX"
+      "name": "XXXXX1"
     }, 
+    {
+      "url": "http://api.xiaoz.fit/18.json",
+      "name": "XXXXX2"
+    }, 
+        {
+       "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+      "name": "XXXXX3"
+},
     {
      "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/18.json",
      "name": "佰欣园xxx"
@@ -51,10 +59,6 @@
 {
      "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt",
      "name": "佰欣园xxx"
-},
-    {
-       "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
-      "name": "XXXXXX"
 }
 ]
 }
