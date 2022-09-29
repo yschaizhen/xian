@@ -1,6 +1,6 @@
  {
 "storeHouse": [
-{"sourceName": "自定义", "sourceUrl": "https://raw.iqiq.io/yschaizhen/xian/main/JJKK"},
+{"sourceName": "自定义", "sourceUrl": "https://ghproxy.net/https://raw.iqiq.io/yschaizhen/xian/main/JJKK"},
 
 {"sourceName":"影视①仓","sourceUrl": "https://gitcode.net/go/go/-/raw/o/ck_2.bin"},
 {"sourceName":"影视②仓","sourceUrl":"https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"},
@@ -37,5 +37,7 @@
 {"sourceName": "17号仓库","sourceUrl": "https://box.nxog.top/17"},
 {"sourceName": "18号仓库","sourceUrl": "https://box.nxog.top/18"},
 {"sourceName": "19号仓库","sourceUrl": "https://box.nxog.top/19"}
+
+{"sourceName": "20号仓库","sourceUrl": "http://tv.nxog.top/dc/20.html"}
 ]
 }
