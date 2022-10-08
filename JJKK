@@ -69,7 +69,7 @@
      "name": "佰欣园xxx"
 },
 {
-     "url": "hhttps://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+     "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
      "name": "adult"
 }
 ]
