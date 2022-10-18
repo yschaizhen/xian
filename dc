@@ -1,7 +1,7 @@
  {
 "storeHouse": [
 {"sourceName": "自定义", "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/JJKK"},
-{"sourceName": "网络资源", "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/wl"}
+{"sourceName": "网络资源", "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/wl"},
 
 {"sourceName":"影视①仓","sourceUrl": "https://gitcode.net/go/go/-/raw/o/ck_2.bin"},
 {"sourceName":"影视②仓","sourceUrl":"https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"},
