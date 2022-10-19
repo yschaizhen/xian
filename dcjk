@@ -8,6 +8,10 @@
       "url": "http://miaotvs.cn/meow",
       "name": "电视免VIP"
     },
+    {
+     "url": "https://ghproxy.com/https://raw.githubusercontent.com/leevi0709/duo/main/v.json",
+     "name": "多多tv"
+    },
   {
       "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
       "name": "云星家庭〔纯绿色家庭版〕"
@@ -65,7 +69,7 @@
       "name": "XXXXX4"
 },
 {
-     "url": "https://raw.iqiq.io/leevi0709/duo/main/m.json",
+     "url": "https://ghproxy.com/https://raw.githubusercontent.com/leevi0709/duo/main/m.json",
      "name": "多多tvxxx"
     },
     {
