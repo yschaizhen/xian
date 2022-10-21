@@ -1,7 +1,7 @@
  {
 "storeHouse": [
 {"sourceName": "自定义仓", "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/yschaizhen/xian/main/dcjk"},
-{"sourceName": "自定义", "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/yschaizhen/xian/main/dcjk"},
+{"sourceName": "可视TV仓", "sourceUrl": "https://maoyingshi.cc/%E5%8F%AF%E8%A7%86TV/117/api.json"},
 {"sourceName": "懒人TV仓", "sourceUrl": "https://notabug.org/yglr/lr/raw/master/api.json"},
 {"sourceName": "网络资源", "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/yschaizhen/xian/main/wl"},
 {"sourceName": "涤灵苑家庭绿色版","sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
