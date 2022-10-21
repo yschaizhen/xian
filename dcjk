@@ -8,6 +8,11 @@
       "url": "http://miaotvs.cn/meow",
       "name": "电视免VIP"
     },
+      {
+     "url": "https://download.kstore.space/download/3008/8.txt",
+     "name": "TV影视PRO"
+    },
+       
     {
      "url": "https://ghproxy.com/https://raw.githubusercontent.com/leevi0709/duo/main/v.json",
      "name": "多多tv"
@@ -16,14 +21,7 @@
       "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
       "name": "云星家庭〔纯绿色家庭版〕"
     },
-     {
-      "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-      "name": "云星阿里〔小纸条/推送等〕"
-    },
-     {
-      "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
-      "name": "云星哔哩〔大套餐/学堂等〕"
-    },
+     
     {
       "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
       "name": "甜蜜"
