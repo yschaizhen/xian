@@ -18,7 +18,7 @@
       "name": "多汇剧tv"
     },
     {
-     "url": "https://ghproxy.com/https://raw.githubusercontent.com/yschaizhen/tvbox/main/drpy.json",
+     "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/drpy.json",
      "name": "道长DYPY"
     },
      {
@@ -64,11 +64,11 @@
       "name": "饭太硬"
     },
     {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
       "name": "甜蜜"
     },
      {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/33.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/33.txt",
        "name": "佰欣园〔33〕线路"
 },
    
@@ -77,7 +77,7 @@
       "name": "XXXXXZ"
     },
     {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/yschaizhen/xian/main/he",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/he",
       "name": "XXXXXZ(ghpoxy)"
     },
     {
@@ -125,11 +125,11 @@
 },
  
     {
-     "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/18.json",
+     "url": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/18.json",
      "name": "佰欣园xxx"
     },
 {
-     "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/福利接口.txt",
+     "url": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/福利接口.txt",
      "name": "佰欣园xxx"
 },
 {
@@ -145,15 +145,15 @@
            "name":"飞机4" 
       },
       {
-        "url":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.txt",
+        "url":"https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.txt",
            "name":"飞机5" 
       },
       {
-        "url":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/18.json",
+        "url":"https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/18.json",
            "name":"飞机6" 
       },
       {
-        "url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
+        "url":"https://ghproxy.net/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
            "name":"飞机7" 
       },
       {
@@ -169,11 +169,11 @@
            "name":"飞机10" 
       },
       {
-        "url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TVBOX/proxygr.json",
+        "url":"https://ghproxy.net/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TVBOX/proxygr.json",
            "name":"飞机11" 
       },
       {
-        "url":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/福利接口.txt",
+        "url":"https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/福利接口.txt",
            "name":"飞机12" 
       },
       {
@@ -189,7 +189,7 @@
            "name":"飞机15" 
       },
 {
-     "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+     "url": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
      "name": "adult"
 }
 ]
