@@ -1,11 +1,11 @@
  {
 "storeHouse": [
 {"sourceName": "自定义仓", "sourceUrl": "https://raw.githubusercontents.com/yschaizhen/xian/main/dcjk"},
-{"sourceName": "自定义仓(phproxy)", "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/yschaizhen/xian/main/dcjk"},
+{"sourceName": "自定义仓(moeyy)", "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yschaizhen/xian/main/dcjk"},
 {"sourceName": "自定义仓(iqiq)", "sourceUrl": "https://raw.iqiq.io/yschaizhen/xian/main/dcjk"},
 
 {"sourceName": "公子仓库", "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yschaizhen/tvbox/main/%E5%85%AC%E5%AD%90%E4%BB%93.json"},
-{"sourceName": "公子仓库1", "sourceUrl": "hhttp://1dlj.cn/公子仓"},
+{"sourceName": "公子仓库1", "sourceUrl": "http://1dlj.cn/公子仓"},
 
 {"sourceName": "Calendre", "sourceUrl": "https://gitee.com/wdc558/TVBox/raw/master/KuYuan/Calendre.json"},
 
