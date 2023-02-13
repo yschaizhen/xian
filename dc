@@ -1,28 +1,28 @@
  {
-"storeHouse": [
-{"sourceName": "自定义仓", "sourceUrl": "https://raw.githubusercontents.com/yschaizhen/xian/main/dcjk"},
-{"sourceName": "自定义仓(moeyy)", "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yschaizhen/xian/main/dcjk"},
-{"sourceName": "自定义仓(iqiq)", "sourceUrl": "https://raw.iqiq.io/yschaizhen/xian/main/dcjk"},
+"storeHouse":[
+{"sourceName":"自定义仓","sourceUrl":"https://raw.githubusercontents.com/yschaizhen/xian/main/dcjk"},
+{"sourceName":"自定义仓(moeyy)","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yschaizhen/xian/main/dcjk"},
+{"sourceName":"自定义仓(iqiq)","sourceUrl":"https://raw.iqiq.io/yschaizhen/xian/main/dcjk"},
 
-{"sourceName": "公子仓库", "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yschaizhen/tvbox/main/%E5%85%AC%E5%AD%90%E4%BB%93.json"},
-{"sourceName": "公子仓库1", "sourceUrl": "http://tvmvip110.live/down.php/db09ee8e17144effe2d8390e86659829.json"},
+{"sourceName":"公子仓库","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yschaizhen/tvbox/main/%E5%85%AC%E5%AD%90%E4%BB%93.json"},
+{"sourceName":"公子仓库1","sourceUrl":"http://tvmvip110.live/down.php/db09ee8e17144effe2d8390e86659829.json"},
 
-{"sourceName": "Calendre", "sourceUrl": "https://gitee.com/wdc558/TVBox/raw/master/KuYuan/cangku1.json""},
+{"sourceName":"Calendre","sourceUrl":"https://gitee.com/wdc558/TVBox/raw/master/KuYuan/cangku1.json""},
 
-{"sourceName":"☁️云星在线仓库","sourceUrl": "https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName":"☁️云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"☁️云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
 
-{"sourceName": "🌹云星备用①仓库🌹", "sourceUrl": "http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=云星"},
-{"sourceName": "🌷云星备用②仓库🌷", "sourceUrl": "http://1.nxog.top/nxog/ou.php?url=http://1.nxog.top&b=云星"},
-{"sourceName": "💐云星备用③仓库💐", "sourceUrl": "http://2.nxog.top/nxog/ou.php?url=http://2.nxog.top&b=云星"},
-{"sourceName": "🌸云星备用④仓库🌸", "sourceUrl": "http://3.nxog.top/nxog/ou.php?url=http://3.nxog.top&b=云星"},
-{"sourceName": "🌼云星备用⑤仓库🌼", "sourceUrl": "http://4.nxog.top/nxog/ou.php?url=http://4.nxog.top&b=云星"},
-{"sourceName": "🌻云星备用⑥仓库🌻", "sourceUrl": "http://5.nxog.top/nxog/ou.php?url=http://5.nxog.top&b=云星"},
+{"sourceName":"🌹云星备用①仓库🌹","sourceUrl":"http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=云星"},
+{"sourceName":"🌷云星备用②仓库🌷","sourceUrl":"http://1.nxog.top/nxog/ou.php?url=http://1.nxog.top&b=云星"},
+{"sourceName":"💐云星备用③仓库💐","sourceUrl":"http://2.nxog.top/nxog/ou.php?url=http://2.nxog.top&b=云星"},
+{"sourceName":"🌸云星备用④仓库🌸","sourceUrl":"http://3.nxog.top/nxog/ou.php?url=http://3.nxog.top&b=云星"},
+{"sourceName":"🌼云星备用⑤仓库🌼","sourceUrl":"http://4.nxog.top/nxog/ou.php?url=http://4.nxog.top&b=云星"},
+{"sourceName":"🌻云星备用⑥仓库🌻","sourceUrl":"http://5.nxog.top/nxog/ou.php?url=http://5.nxog.top&b=云星"},
 
-{"sourceName": "懒人TV仓", "sourceUrl": "https://notabug.org/yglr/lr/raw/master/api.json"},
+{"sourceName":"懒人TV仓","sourceUrl":"https://notabug.org/yglr/lr/raw/master/api.json"},
 
-{"sourceName": "网络资源", "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/wl"},
-{"sourceName": "涤灵苑家庭绿色版","sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
+{"sourceName":"网络资源","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/wl"},
+{"sourceName":"涤灵苑家庭绿色版","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
 
 {"sourceName":"蚂蚁体验①号库","sourceUrl":"https://download.kstore.space/download/2883/PY/%E2%91%A0.txt"},
 {"sourceName":"蚂蚁体验②号库","sourceUrl":" https://download.kstore.space/download/2883/PY/%E2%91%A1.txt"},
