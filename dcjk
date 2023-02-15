@@ -9,12 +9,7 @@
       "name": "星辰TV"
     },
     
-     {
-      "url": "http://1dlj.cn/刘公子",
-      "name": "刘公子"
-    },
-  
-      {
+   {
       "url": "https://notabug.org/yglr/lr/raw/master/jiekou.json",
       "name": "懒人TV"
     },
@@ -128,6 +123,11 @@
        "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
       "name": "XXX9"
 },
+ 
+    {
+      "url": "http://1dlj.cn/刘公子",
+      "name": "刘公子"
+    },
  
     {
      "url": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/18.json",
