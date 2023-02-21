@@ -1,53 +1,81 @@
 {
   "urls": [
-   {
+  {
+     "url": "https://yydsys.top/duo/v.json",
+     "name": "多多tv"
+    },
+     {
+      "url": "http://52bsj.vip:98/wuai",
+      "name": "吾爱测评"
+    },
+  {
       "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
       "name": "云星家庭"
     },
+   
+    {
+      "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+      "name": "肥猫"
+    },
+         {
+      "url": "http://饭太硬.ga/x/o.json",
+      "name": "饭太硬"
+    },
+  
      {
-      "url": "http://8.210.220.114:8888/down/O58AjFT1OrTq.json",
-      "name": "星辰TV"
-    },
-    
-   {
-      "url": "https://notabug.org/yglr/lr/raw/master/jiekou.json",
-      "name": "懒人TV"
-    },
-    {
-      "url": "http://box.hfys8.vip/app/jxzy/jh.json",
-      "name": "多汇剧tv"
-    },
-    {
-     "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/drpy.json",
-     "name": "道长DYPY"
+      "url": "https://hutool.ml/tang",
+      "name": "唐长老"
     },
      {
-      "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-      "name": "月光宝盒"
+      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "name": "巧儿"
     },
-    {
-      "url": "http://52bsj.vip:98/wuai",
-      "name": "吾爱测评"
+     {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "俊哥"
+    },
+     {
+      "url": "http://drpy.site/js1",
+      "name": "小雅"
+    },
+      {
+      "url": "https://tvbox.cainisi.cf",
+      "name": "菜妮丝"
+    },
+      {
+      "url": "https://神器每日推送.tk/pz.json",
+      "name": "神器"
     },
      {
       "url": "http://miaotvs.cn/meow",
       "name": "喵影视TV"
+    },
+  {
+      "url": "http://8.210.220.114:8888/down/O58AjFT1OrTq.json",
+      "name": "星辰TV"
+    },
+      {
+      "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+      "name": "月光宝盒"
+    },    
+   {
+      "url": "https://notabug.org/yglr/lr/raw/master/jiekou.json",
+      "name": "懒人TV"
     },
       {
      "url": "https://download.kstore.space/download/3008/8.txt",
      "name": "TV影视PRO"
     },
     {
-     "url": "https://yydsys.top/duo/v.json",
-     "name": "多多tv"
-    },
-
-     {
       "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
       "name": "蚂蚁线路"
     },
-  
-     {
+ 
+    {
+     "url": "https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/drpy.json",
+     "name": "道长DYPY"
+    },
+  {
       "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
       "name": "小苹果"
     },
@@ -58,10 +86,6 @@
       {
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
       "name": "南风"
-    },
-      {
-      "url": "http://xn--sss604efuw.ml/tvb/x",
-      "name": "饭太硬"
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
