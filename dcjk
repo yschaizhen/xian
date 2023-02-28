@@ -103,6 +103,14 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
       "name": "甜蜜"
     },
+   {
+      "url": "https://agit.ai/xixi/yizhan/raw/branch/master/a.txt",
+      "name": "西西A"
+    },
+    {
+      "url": "https://agit.ai/xixi/yizhan/raw/branch/master/c.txt",
+      "name": "西西C"
+    },
    
 {
       "url": "https://raw.githubusercontents.com/yschaizhen/xian/main/he",
@@ -155,6 +163,11 @@
        "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
       "name": "XXX9"
 },
+
+    {
+      "url": "https://agit.ai/xixi/yizhan/raw/branch/master/b.txt",
+      "name": "西西B"
+    },
  
 {
         "url":"https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
