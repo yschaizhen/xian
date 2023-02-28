@@ -2,6 +2,10 @@
   "urls": [
   {
      "url": "https://yydsys.top/duo/v.json",
+     "name": "多多tv家庭"
+    },
+     {
+     "url": "https://yydsys.top/duo/x.json",
      "name": "多多tv"
     },
      {
@@ -42,9 +46,17 @@
       "url": "https://tvbox.cainisi.cf",
       "name": "菜妮丝"
     },
-      {
+  {
       "url": "https://神器每日推送.tk/pz.json",
       "name": "神器"
+    },
+   {
+      "url": "http:/刚刚.live/猫",
+      "name": "刚刚"
+    },
+      {
+      "url": "https://tv.5ye.cc",
+      "name": "二哈社区"
     },
      {
       "url": "http://miaotvs.cn/meow",
