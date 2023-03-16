@@ -2,6 +2,7 @@
 "storeHouse":
 [
 {"sourceName":"自定义仓","sourceUrl":"https://raw.githubusercontents.com/yschaizhen/xian/main/dcjk"},
+{"sourceName":"自定义仓(com)","sourceUrl":"https://github.com/https://raw.githubusercontent.com/yschaizhen/xian/main/dcjk"},
 {"sourceName":"自定义仓(net)","sourceUrl":"https://github.net/https://raw.githubusercontent.com/yschaizhen/xian/main/dcjk"},
 {"sourceName":"自定义仓(iqiq)","sourceUrl":"https://raw.iqiq.io/yschaizhen/xian/main/dcjk"},
 {"sourceName":"Calendre","sourceUrl":"https://gitee.com/wdc558/TVBox/raw/master/KuYuan/cangku1.json"},
