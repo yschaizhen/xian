@@ -169,18 +169,7 @@
         "url":"https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/ss.json",
            "name":"飞机3" 
       },
-{
-        "url":"https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json",
-           "name":"飞机4" 
-      },
-{
-        "url":"https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.txt",
-           "name":"飞机5" 
-      },
-{
-        "url":"https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/18.json",
-           "name":"飞机6" 
-      },
+
 {
         "url":"https://ghproxy.net/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
            "name":"飞机7" 
