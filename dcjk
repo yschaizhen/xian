@@ -175,29 +175,10 @@
            "name":"飞机8" 
       },
 
- {
-        "url":"https://ghproxy.net/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TVBOX/proxygr.json",
-           "name":"飞机11" 
-      },
- {
-        "url":"https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/福利接口.txt",
-           "name":"飞机12" 
-      },
-{
-        "url":"https://e40.cn/ygbh",
-		  "name":"飞机13" 
-      },
+
  {
         "url":"http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
            "name":"飞机14" 
-      },
-{
-        "url":"https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
-           "name":"飞机15" 
-      },
-{
-     "url": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
-     "name": "adult"
-}
+      }
 ]
 }
