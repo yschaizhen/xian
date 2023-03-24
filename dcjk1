@@ -23,10 +23,6 @@
       "url": "http://8.210.220.114:8888/down/O58AjFT1OrTq.json",
       "name": "星辰TV"
     },
- {
-      "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
-      "name": "月光宝盒"
-    },    
 {
       "url": "https://notabug.org/yglr/lr/raw/master/jiekou.json",
       "name": "懒人TV"
@@ -46,14 +42,6 @@
  {
       "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
       "name": "小苹果"
-    },
-{
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "name": "南风"
-    },
-{
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
-      "name": "甜蜜"
     },
 {
       "url": "https://agit.ai/xixi/yizhan/raw/branch/master/a.txt",
