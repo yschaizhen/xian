@@ -9,7 +9,8 @@
 {"sourceName":"Calendre","sourceUrl":"https://gitee.com/wdc558/TVBox/raw/master/KuYuan/cangku1.json"},
 
 {"sourceName":"☁️云星在线仓库","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
-{"sourceName":"☁️云星本地仓库","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
+{"sourceName":"☁️云星本地仓库(在线)","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
+{"sourceName":"☁️云星本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
 {"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/1.txt"},
 {"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/2.txt"},
 {"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/3.txt"},
