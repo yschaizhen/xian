@@ -7,6 +7,7 @@
 {"sourceName":"自定义②仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/dcjk1"},
 
 {"sourceName":"☁️云星在线仓库","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName":"☁️云星在线仓库(本地)","sourceUrl":"clan://localhost/TVBox/lib/zx.json"},
 {"sourceName":"☁️云星本地仓库(在线)","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
 {"sourceName":"☁️云星本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
 {"sourceName":"免软资源","sourceUrl":"https://agit.ai/W-TV/xiaomian/raw/branch/master/xmdc.json"},
