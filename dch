@@ -6,7 +6,6 @@
 {"sourceName":"自定义①仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/dcjk"},
 //{"sourceName":"自定义仓(iqiq)","sourceUrl":"https://raw.iqiq.io/yschaizhen/xian/main/dcjk"},
 {"sourceName":"自定义②仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/dcjk1"},
-{"sourceName":"自定义H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/dcjkH"},
 {"sourceName":"Calendre","sourceUrl":"https://gitee.com/wdc558/TVBox/raw/master/KuYuan/cangku1.json"},
 
 {"sourceName":"☁️云星在线仓库","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
@@ -22,6 +21,18 @@
 {"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/3.txt"},
 {"sourceName":"🥕多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/4.txt"},
 
+{"sourceName": "⭐小胡影视仓库1⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc1"},
+{"sourceName": "⭐小胡影视仓库2⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc2"},
+{"sourceName": "⭐小胡影视仓库3⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc3"},
+{"sourceName": "⭐小胡影视仓库4⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc4"},
+
+{"sourceName":"💚秒播影视仓1","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c1.json"},
+{"sourceName":"💛秒播影视仓2","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c2.json"},
+{"sourceName":"❤️秒播影视仓3","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c3.json"},
+{"sourceName":"🌙秒播影视仓4","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c4.json"},
+{"sourceName":"💛秒播影视仓5","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c5.json"},
+{"sourceName":"❤️秒播影视仓6","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c6.json"},
+
 {"sourceName":"涤灵苑家庭绿色版","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
 {"sourceName":"超级单仓库","sourceUrl":"http://tvmvip110.live/down.php/f9523f66cd6bff482cedcb1e5511021c.txt"},
 {"sourceName":"单仓库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},
@@ -30,6 +41,7 @@
 {"sourceName": "①号仓库","sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"},
 {"sourceName": "②号仓库","sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/znck.txt"},
 
+{"sourceName":"自定义H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/dcjkh"},
 {"sourceName":"公子仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/%E5%85%AC%E5%AD%90%E4%BB%93.json"},
 {"sourceName":"公子仓库1","sourceUrl":"http://tvmvip110.live/down.php/db09ee8e17144effe2d8390e86659829.json"},
 {"sourceName":"公子仓库2","sourceUrl":"http://tvmvip110.live/down.php/515efd6e76612b1f8d2e4ca3b81f953d.json"},
