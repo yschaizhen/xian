@@ -22,6 +22,11 @@
 {"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/3.txt"},
 {"sourceName":"🥕多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/4.txt"},
 
+{ "sourceName": "日后服务器", "sourceUrl": "http://rihou.cc/日后多仓/3.php" }, 
+{ "sourceName": "日后网络收集仓", "sourceUrl": "http://rihou.cc/日后多仓/2.php" }, 
+{ "sourceName": "日后备用服务器", "sourceUrl": "http://rihou.cc/日后多仓/0.php" }, 
+{ "sourceName": "日后本地仓", "sourceUrl": "http://rihou.cc/日后多仓/1.php" }, 
+
 {"sourceName": "⭐小胡影视仓库1⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc1"},
 {"sourceName": "⭐小胡影视仓库2⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc2"},
 {"sourceName": "⭐小胡影视仓库3⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc3"},
@@ -33,6 +38,11 @@
 {"sourceName":"🌙秒播影视仓4","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c4.json"},
 {"sourceName":"💛秒播影视仓5","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c5.json"},
 {"sourceName":"❤️秒播影视仓6","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c6.json"},
+
+{"sourceName": "人人资源1号仓", "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/65076/%E5%8D%95%E4%BB%93.txt?sign=ss5JOZEVlCadzzWgKtn6cfflHgcgyMZoJkIvBe5r_tc%3D%3A0"},
+{"sourceName": "人人资源2号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/65081/0.txt?sign=Bb0VdWrzeB_vINPJ5ErKEBCTxIqSdyrlhWf_nsLHW4o%3D%3A0"},
+{"sourceName": "人人资源3号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/65085/1.txt?sign=GfTz6Xy-qTIISJqSTirJB0I2bEg5K3RG7yMzJ5O89FY%3D%3A0"},
+{"sourceName": "人人资源4号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67736/2.txt?sign=_LOjeUn1PoIdckxhtgLBrPcem0LmpsXlDMgR47UkDcA%3D%3A0"},
 
 {"sourceName":"涤灵苑家庭绿色版","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
 {"sourceName":"超级单仓库","sourceUrl":"http://tvmvip110.live/down.php/f9523f66cd6bff482cedcb1e5511021c.txt"},
@@ -78,17 +88,8 @@
 {"sourceName":"派大星⑰号库","sourceUrl":"https://box.nxog.top/17"},
 {"sourceName":"派大星⑱号库","sourceUrl":"https://box.nxog.top/18"},
 {"sourceName":"派大星⑲号库","sourceUrl":"https://box.nxog.top/19"},
-{"sourceName":"派大星⑳号库","sourceUrl":"https://box.nxog.top/20"},
+{"sourceName":"派大星⑳号库","sourceUrl":"https://box.nxog.top/20"}
 
-{"sourceName": "人人资源1号仓", "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/65076/%E5%8D%95%E4%BB%93.txt?sign=ss5JOZEVlCadzzWgKtn6cfflHgcgyMZoJkIvBe5r_tc%3D%3A0"},
-{"sourceName": "人人资源2号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/65081/0.txt?sign=Bb0VdWrzeB_vINPJ5ErKEBCTxIqSdyrlhWf_nsLHW4o%3D%3A0"},
-{"sourceName": "人人资源3号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/65085/1.txt?sign=GfTz6Xy-qTIISJqSTirJB0I2bEg5K3RG7yMzJ5O89FY%3D%3A0"},
-{"sourceName": "人人资源4号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67736/2.txt?sign=_LOjeUn1PoIdckxhtgLBrPcem0LmpsXlDMgR47UkDcA%3D%3A0"},
-
-{"sourceName":"🌙影视仓①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
-{"sourceName":"🌙影视仓②","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"}, 
-{"sourceName":"🌙影视仓③","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"}, 
-{"sourceName":"🌙影视仓④","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"}
 
 ]
 }
