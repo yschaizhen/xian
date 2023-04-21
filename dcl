@@ -44,6 +44,8 @@
 {"sourceName": "人人资源3号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/65085/1.txt?sign=GfTz6Xy-qTIISJqSTirJB0I2bEg5K3RG7yMzJ5O89FY%3D%3A0"},
 {"sourceName": "人人资源4号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67736/2.txt?sign=_LOjeUn1PoIdckxhtgLBrPcem0LmpsXlDMgR47UkDcA%3D%3A0"},
 
+{"sourceName": "安卓哥仓库","sourceUrl": "https://notabug.org/wuheng40/wh/raw/zy/ck/ck1/5.jpg"},
+
 {"sourceName":"涤灵苑家庭绿色版","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
 {"sourceName":"超级单仓库","sourceUrl":"http://tvmvip110.live/down.php/f9523f66cd6bff482cedcb1e5511021c.txt"},
 {"sourceName":"单仓库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},
