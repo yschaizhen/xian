@@ -11,10 +11,8 @@
 {"sourceName":"☁️云星在线仓库(本地)","sourceUrl":"clan://localhost/TVBox/lib/zx.json"},
 {"sourceName":"☁️云星本地仓库(在线)","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
 {"sourceName":"☁️云星本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
-{"sourceName":"免软资源","sourceUrl":"https://agit.ai/W-TV/xiaomian/raw/branch/master/xmdc.json"},
 {"sourceName":"玉玉主仓","sourceUrl":"http://tvmvip110.club/xcdc.txt"},
 {"sourceName":"玉玉网络仓","sourceUrl":"http://tvmvip110.club/xcdc3.txt"},
-{"sourceName":"展宁仓库","sourceUrl":"https://gitcode.net/m0_73513607/ysc1129/-/raw/master/znck.txt?inline=false"},
 {"sourceName":"晓然云仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/huangziyu100224/TV/main/%E4%BA%91%E4%BB%93/%E4%BA%91%E4%BB%93.txt"},
 {"sourceName":"Calendre","sourceUrl":"https://gitee.com/wdc558/TVBox/raw/master/KuYuan/cangku1.json"},
 
