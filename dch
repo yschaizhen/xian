@@ -22,11 +22,6 @@
 {"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/3.txt"},
 {"sourceName":"🥕多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/4.txt"},
 
-{ "sourceName": "日后服务器", "sourceUrl": "http://rihou.cc/日后多仓/3.php" }, 
-{ "sourceName": "日后网络收集仓", "sourceUrl": "http://rihou.cc/日后多仓/2.php" }, 
-{ "sourceName": "日后备用服务器", "sourceUrl": "http://rihou.cc/日后多仓/0.php" }, 
-{ "sourceName": "日后本地仓", "sourceUrl": "http://rihou.cc/日后多仓/1.php" }, 
-
 {"sourceName": "⭐小胡影视仓库1⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc1"},
 {"sourceName": "⭐小胡影视仓库2⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc2"},
 {"sourceName": "⭐小胡影视仓库3⭐","sourceUrl": "https://agit.ai/xiaohu/tvbox/raw/branch/main/dc3"},
