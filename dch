@@ -2,8 +2,8 @@
 "storeHouse":
 [
 //{"sourceName":"自定义仓(com)","sourceUrl":"https://ghproxy.com//https://raw.githubusercontent.com/yschaizhen/xian/main/jk"},
-{"sourceName":"自定义①仓(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk"},
-{"sourceName":"自定义②仓(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk1"},
+//{"sourceName":"自定义①仓(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk"},
+//{"sourceName":"自定义②仓(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk1"},
 {"sourceName":"自定义①仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jk"},
 {"sourceName":"自定义②仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jk1"},
 
