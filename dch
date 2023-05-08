@@ -19,9 +19,9 @@
 {"sourceName":"Calendre","sourceUrl":"https://gitee.com/wdc558/TVBox/raw/master/KuYuan/cangku1.json"},
 
 {"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/0.php"},
-{"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/2.php"},
-//{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/3.php"},
-{"sourceName":"日后魔改仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/4.php"},
+{"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/1.php"},
+//{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/2.php"},
+{"sourceName":"日后魔改仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/3.php"},
 
 {"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
 {"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
