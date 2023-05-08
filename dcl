@@ -42,36 +42,34 @@
 
 {"sourceName": "安卓哥仓库","sourceUrl": "https://notabug.org/wuheng40/wh/raw/zy/ck/ck1/5.jpg"},
 
-{"sourceName":"涤灵苑家庭绿色版","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
 {"sourceName":"超级单仓库","sourceUrl":"http://tvmvip110.live/down.php/f9523f66cd6bff482cedcb1e5511021c.txt"},
 {"sourceName":"单仓库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},
 {"sourceName":"雨滴单仓","sourceUrl":"http://快乐雨滴.club:63/牛逼"},
 
 {"sourceName": "①号仓库","sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"},
-{"sourceName": "②号仓库","sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/znck.txt"},
 {"sourceName": "八百仓","sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
-{"sourceName": "鸡盒仓","sourceUrl": "http://tags.top/yuan.json"},
+{"sourceName": "鸡盒仓","sourceUrl": "http://tags.top/yuan.json"}
 
-{"sourceName":"派大星①号库","sourceUrl":"https://box.nxog.top/1"},
-{"sourceName":"派大星②号库","sourceUrl":"https://box.nxog.top/2"},
-{"sourceName":"派大星③号库","sourceUrl":"https://box.nxog.top/3"},
-{"sourceName":"派大星④号库","sourceUrl":"https://box.nxog.top/4"},
-{"sourceName":"派大星⑤号库","sourceUrl":"https://box.nxog.top/5"},
-{"sourceName":"派大星⑥号库","sourceUrl":"https://box.nxog.top/6"},
-{"sourceName":"派大星⑦号库","sourceUrl":"https://box.nxog.top/7"},
-{"sourceName":"派大星⑧号库","sourceUrl":"https://box.nxog.top/8"},
-{"sourceName":"派大星⑨号库","sourceUrl":"https://box.nxog.top/9"},
-{"sourceName":"派大星⑪号库","sourceUrl":"https://box.nxog.top/10"},
-{"sourceName":"派大星⑪号库","sourceUrl":"https://box.nxog.top/11"},
-{"sourceName":"派大星⑫号库","sourceUrl":"https://box.nxog.top/12"},
-{"sourceName":"派大星⑬号库","sourceUrl":"https://box.nxog.top/13"},
-{"sourceName":"派大星⑭号库","sourceUrl":"https://box.nxog.top/14"},
-{"sourceName":"派大星⑮号库","sourceUrl":"https://box.nxog.top/15"},
-{"sourceName":"派大星⑯号库","sourceUrl":"https://box.nxog.top/16"},
-{"sourceName":"派大星⑰号库","sourceUrl":"https://box.nxog.top/17"},
-{"sourceName":"派大星⑱号库","sourceUrl":"https://box.nxog.top/18"},
-{"sourceName":"派大星⑲号库","sourceUrl":"https://box.nxog.top/19"},
-{"sourceName":"派大星⑳号库","sourceUrl":"https://box.nxog.top/20"}
+//{"sourceName":"派大星①号库","sourceUrl":"https://box.nxog.top/1"},
+//{"sourceName":"派大星②号库","sourceUrl":"https://box.nxog.top/2"},
+//{"sourceName":"派大星③号库","sourceUrl":"https://box.nxog.top/3"},
+//{"sourceName":"派大星④号库","sourceUrl":"https://box.nxog.top/4"},
+//{"sourceName":"派大星⑤号库","sourceUrl":"https://box.nxog.top/5"},
+//{"sourceName":"派大星⑥号库","sourceUrl":"https://box.nxog.top/6"},
+//{"sourceName":"派大星⑦号库","sourceUrl":"https://box.nxog.top/7"},
+//{"sourceName":"派大星⑧号库","sourceUrl":"https://box.nxog.top/8"},
+//{"sourceName":"派大星⑨号库","sourceUrl":"https://box.nxog.top/9"},
+//{"sourceName":"派大星⑪号库","sourceUrl":"https://box.nxog.top/10"},
+//{"sourceName":"派大星⑪号库","sourceUrl":"https://box.nxog.top/11"},
+//{"sourceName":"派大星⑫号库","sourceUrl":"https://box.nxog.top/12"},
+//{"sourceName":"派大星⑬号库","sourceUrl":"https://box.nxog.top/13"},
+//{"sourceName":"派大星⑭号库","sourceUrl":"https://box.nxog.top/14"},
+//{"sourceName":"派大星⑮号库","sourceUrl":"https://box.nxog.top/15"},
+//{"sourceName":"派大星⑯号库","sourceUrl":"https://box.nxog.top/16"},
+//{"sourceName":"派大星⑰号库","sourceUrl":"https://box.nxog.top/17"},
+//{"sourceName":"派大星⑱号库","sourceUrl":"https://box.nxog.top/18"},
+//{"sourceName":"派大星⑲号库","sourceUrl":"https://box.nxog.top/19"},
+//{"sourceName":"派大星⑳号库","sourceUrl":"https://box.nxog.top/20"}
 
 
 ]
