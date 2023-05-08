@@ -42,7 +42,6 @@
 
 {"sourceName": "安卓哥仓库","sourceUrl": "https://notabug.org/wuheng40/wh/raw/zy/ck/ck1/5.jpg"},
 
-{"sourceName":"超级单仓库","sourceUrl":"http://tvmvip110.live/down.php/f9523f66cd6bff482cedcb1e5511021c.txt"},
 {"sourceName":"单仓库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},
 {"sourceName":"雨滴单仓","sourceUrl":"http://快乐雨滴.club:63/牛逼"},
 
