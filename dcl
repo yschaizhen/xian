@@ -17,6 +17,7 @@
 //{"sourceName":"玉玉网络仓","sourceUrl":"http://tvmvip110.club/xcdc3.txt"},
 {"sourceName":"晓然云仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/huangziyu100224/TV/main/%E4%BA%91%E4%BB%93/%E4%BA%91%E4%BB%93.txt"},
 {"sourceName":"Calendre","sourceUrl":"https://gitee.com/wdc558/TVBox/raw/master/KuYuan/cangku1.json"},
+{"sourceName":"猎狼TV吧","sourceUrl":"http://tvbox.lltv8.top/"},
 
 {"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/0.php"},
 {"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/1.php"},
