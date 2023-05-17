@@ -50,13 +50,11 @@
 {"sourceName": "人人资源4号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67736/2.txt?sign=_LOjeUn1PoIdckxhtgLBrPcem0LmpsXlDMgR47UkDcA%3D%3A0"},
 
 {"sourceName": "安卓哥仓库","sourceUrl": "https://notabug.org/wuheng40/wh/raw/zy/ck/ck1/5.jpg"},
-
-{"sourceName":"单仓库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},
 {"sourceName":"雨滴单仓","sourceUrl":"http://快乐雨滴.club:63/牛逼"},
-
-{"sourceName": "①号仓库","sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"},
 {"sourceName": "八百仓","sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
-{"sourceName": "鸡盒仓","sourceUrl": "http://tags.top/yuan.json"}
+{"sourceName": "鸡盒仓","sourceUrl": "http://tags.top/yuan.json"},
+{"sourceName": "小葱仓库","sourceUrl": "https://raw.iqiq.io/jigedos/CTTBOX/main/dc1.json"},
+{"sourceName": "牛肉仓库","sourceUrl": "https://raw.iqiq.io/jigedos/CTTBOX/main/dcpro.json"}
 
 //{"sourceName":"派大星①号库","sourceUrl":"https://box.nxog.top/1"},
 //{"sourceName":"派大星②号库","sourceUrl":"https://box.nxog.top/2"},
