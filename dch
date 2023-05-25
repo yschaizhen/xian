@@ -60,6 +60,11 @@
 {"sourceName":"云星H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh1"},
 {"sourceName":"云星H仓(本地)","sourceUrl":"clan://localhost/TVBox/lib/99.json"},
 
+//以下为业余打发欧哥本地包18库
+{"name":"👫独自娱乐团聚勿点👫","url":"clan://localhost/yygf/ss/xh.json"},
+{"name":"👨‍👧叼咖咪影视静音源👨‍👧","url":"clan://localhost/yygf/ss/ss.json"},
+{"name":"🗣叼咖咪十八十[可加速器]🗣","url":"clan://localhost/yygf/ss/181.json"}，
+//
 {"sourceName":"刘公子H仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"},
 {"sourceName":"刘公子H1仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua1.json"},
 {"sourceName": "私用H仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/65077/%E5%8D%95%E4%BB%93-A.json?sign=Vjbu0tD1POIrjOV1X7aF7Zvf8Ek2pPD_KvXV47i7EZw%3D%3A0"},
