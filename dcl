@@ -53,8 +53,6 @@
 {"sourceName":"雨滴单仓","sourceUrl":"http://快乐雨滴.club:63/牛逼"},
 {"sourceName": "八百仓","sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
 {"sourceName": "鸡盒仓","sourceUrl": "http://tags.top/yuan.json"},
-{"sourceName": "小葱仓库","sourceUrl": "https://raw.iqiq.io/jigedos/CTTBOX/main/dc1.json"},
-{"sourceName": "牛肉仓库","sourceUrl": "https://raw.iqiq.io/jigedos/CTTBOX/main/dcpro.json"}
 
 //{"sourceName":"派大星①号库","sourceUrl":"https://box.nxog.top/1"},
 //{"sourceName":"派大星②号库","sourceUrl":"https://box.nxog.top/2"},
