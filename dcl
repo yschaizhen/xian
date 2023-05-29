@@ -68,7 +68,7 @@
 //{"sourceName": "🏆绿茶④🏆","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B63.txt?sign=baO6aqW2E4MdRJpIjaJCvuj3UZ2T5lAGp1LlLcM9GPU%3D%3A0"},
 
 //{"sourceName": "🏆fj🏆","sourceUrl": "https://notabug.org/wuheng40/wh/raw/zy/ck/ck1/6.jpg"},
-//{"sourceName": "🏆大人仓🏆","sourceUrl": "http://rico.migoa.cn/影视仓/仓库.json"},
+//{"sourceName": "🏆大人仓🏆","sourceUrl": "http://rico.migoa.cn/影视仓/仓库.json"}
 
 //{"sourceName":"派大星①号库","sourceUrl":"https://box.nxog.top/1"},
 //{"sourceName":"派大星②号库","sourceUrl":"https://box.nxog.top/2"},
