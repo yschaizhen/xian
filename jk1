@@ -3,8 +3,8 @@
 [
 {"url":"https://agit.ai/W-TV/XM/raw/branch/master/XMTVBox.json","name":"免软资源（小T）"},
 //{"url":"http://tvmvip110.club/tv/box/xc.json","name":"玉玉软件"},
-{"url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json","name":"小胡接口"},
-{"url":"https://jihulab.com/xiaohutx/box/-/raw/main/00.json","name":"小胡接口1"},
+{"url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json","name":"小胡接口（rules规则）"},
+{"url":"https://jihulab.com/xiaohutx/box/-/raw/main/00.json","name":"小胡接口"},
 {"url":"https://jihulab.com/xiaohutx/box/-/raw/main/1.json","name":"小胡阿里接口"},
 {"url":"https://git.acwing.com/zn777/tvlive/-/raw/main/js/tvmovie","name":"展宁线路"},
 {"url":"https://pan.shangui.cc/f/v2Lsk/yyfx.json","name":"业余打发线路"},
