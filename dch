@@ -19,6 +19,7 @@
 {"sourceName":"Calendre","sourceUrl":"https://gitee.com/wdc558/TVBox/raw/master/KuYuan/cangku1.json"},
 {"sourceName":"猎狼TV吧","sourceUrl":"http://tvbox.lltv8.top/"},
 {"sourceName":"白虾宝盒","sourceUrl": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
+{"sourceName":"农作物","sourceUrl": "https://jihulab.com/hami/stop/-/raw/main/%E5%86%9C%E4%BD%9C%E7%89%A9/%E4%BB%93%E5%BA%93.txt"},
 
 {"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/0.php"},
 {"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/1.php"},
