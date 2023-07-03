@@ -21,6 +21,8 @@
 {"sourceName":"白虾宝盒","sourceUrl": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
 {"sourceName":"农作物仓库","sourceUrl": "https://jihulab.com/hami/stop/-/raw/main/%E5%86%9C%E4%BD%9C%E7%89%A9/%E7%A7%8D%E6%A4%8D.txt"},
 {"sourceName":"展宁仓库","sourceUrl": "https://git.acwing.com/zn777/tvlive/-/raw/main/tvmck.json"},
+{"sourceName":"运输车仓库","sourceUrl": "https://weixine.net/api.json"},
+
 
 {"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/0.php"},
 {"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/1.php"},
