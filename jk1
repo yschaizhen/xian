@@ -1,7 +1,7 @@
 {
 "urls": 
 [
-{"url":"https://agit.ai/W-TV/XM/raw/branch/master/XM.json","name":"免软资源（小T）"},
+{"url":"https://agit.ai/W-TV/XM/raw/branch/master/XM.json","name":"免软资源"},
 //{"url":"http://tvmvip110.club/tv/box/xc.json","name":"玉玉软件"},
 {"url":"https://xzam.cn/tv","name":"小胡接口"},
 {"url":"https://git.acwing.com/zn777/tvlive/-/raw/main/js/tvmovie","name":"展宁线路"},
