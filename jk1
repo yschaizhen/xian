@@ -2,7 +2,7 @@
 "urls": 
 [
 {"url":"https://agit.ai/W-TV/XM/raw/branch/master/XM.json","name":"免软资源"},
-//{"url":"http://tvmvip110.club/tv/box/xc.json","name":"玉玉软件"},
+{"url":"http://8.210.232.168/xc.json","name":"玉玉软件"}，
 {"url":"http://xzam.cn:66/tv","name":"小胡接口"},
 {"url":"https://gitee.com/lekanbox/App/raw/master/ali.json","name":"阿里无敌"},
 {"url":"https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt","name":"教育专线"},
