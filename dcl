@@ -38,8 +38,8 @@
 {"sourceName":"公众仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck2.txt"},
 {"sourceName":"️聚合仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck3.txt"},
 
-{"sourceName": "⭐小胡影视仓库1⭐","sourceUrl":"https://pan.shangui.cc/f/nqLEf2/1.txt"},
-{"sourceName": "⭐小胡影视仓库2⭐","sourceUrl":"https://pan.shangui.cc/f/KeVms6/2.txt"},
+{"sourceName": "⭐小胡影视仓库1⭐","sourceUrl":"https://xzam.cn:65/1"},
+{"sourceName": "⭐小胡影视仓库2⭐","sourceUrl":"https://xzam.cn:65/2"},
 
 {"sourceName":"💚秒播影视仓1","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c1.json"},
 {"sourceName":"💛秒播影视仓2","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c2.json"},
