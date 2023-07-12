@@ -4,7 +4,7 @@
 //{"sourceName":"自定义①仓(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk"},
 //{"sourceName":"自定义②仓(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk1"},
 {"sourceName":"自定义①仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jk"},
-{"sourceName":"自定义②仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jk1"},
+{"sourceName":"自定义②仓","sourceUrl":"https://ghproxy.com//https://raw.githubusercontent.com/yschaizhen/xian/main/jk1"},
 
 {"sourceName":"☁️云星在线仓库","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"☁️云星在线仓库(本地)","sourceUrl":"clan://localhost/TVBox/lib/zx.json"},
