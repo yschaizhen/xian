@@ -58,8 +58,8 @@
 //{"sourceName": "鸡盒仓","sourceUrl":"http://tags.top/yuan.json"}
 
 {"sourceName":"自定义H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh"},
-//{"sourceName":"云星H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh1"},
-//{"sourceName":"云星H仓(本地)","sourceUrl":"clan://localhost/TVBox/lib/99.json"},
+{"sourceName":"云星H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh1"},
+{"sourceName":"云星H仓(本地)","sourceUrl":"clan://localhost/TVBox/lib/99.json"},
 
 //{"sourceName":"刘公子H仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"},
 //{"sourceName":"刘公子H1仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua1.json"},
