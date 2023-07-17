@@ -55,11 +55,11 @@
 {"sourceName": "安卓哥仓库","sourceUrl": "https://notabug.org/wuheng40/wh/raw/zy/ck/ck1/5.jpg"},
 {"sourceName":"雨滴单仓","sourceUrl":"http://快乐雨滴.club:63/牛逼"},
 {"sourceName": "八百仓","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
-{"sourceName": "鸡盒仓","sourceUrl":"http://tags.top/yuan.json"}
+{"sourceName": "鸡盒仓","sourceUrl":"http://tags.top/yuan.json"}，
 
-//{"sourceName":"自定义H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh"},
-//{"sourceName":"云星H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh1"},
-//{"sourceName":"云星H仓(本地)","sourceUrl":"clan://localhost/TVBox/lib/99.json"},
+{"sourceName":"自定义H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh"},
+{"sourceName":"云星H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh1"},
+{"sourceName":"云星H仓(本地)","sourceUrl":"clan://localhost/TVBox/lib/99.json"}
 
 //{"sourceName": "⭐小胡影视仓库4⭐","sourceUrl":"https://agit.ai/xiaohu/tvbox/raw/branch/main/dc4"},
 //{"sourceName":"刘公子H仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"},
