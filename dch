@@ -61,9 +61,9 @@
 {"sourceName":"云星H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh1"},
 {"sourceName":"云星H仓(本地)","sourceUrl":"clan://localhost/TVBox/lib/99.json"},
 
-//{"sourceName":"刘公子H仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"},
-//{"sourceName":"刘公子H1仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua1.json"},
-//{"sourceName": "私用H仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/65077/%E5%8D%95%E4%BB%93-A.json?sign=Vjbu0tD1POIrjOV1X7aF7Zvf8Ek2pPD_KvXV47i7EZw%3D%3A0"},
+{"sourceName":"刘公子H仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"},
+{"sourceName":"刘公子H1仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua1.json"},
+{"sourceName": "私用H仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/65077/%E5%8D%95%E4%BB%93-A.json?sign=Vjbu0tD1POIrjOV1X7aF7Zvf8Ek2pPD_KvXV47i7EZw%3D%3A0"},
 
 //{"sourceName":"自用成人仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/18.json"},
 //{"sourceName":"大烟管18","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"},
