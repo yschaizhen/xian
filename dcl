@@ -11,6 +11,7 @@
 {"sourceName":"☁️云星本地仓库(在线)","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
 {"sourceName":"☁️云星本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
 {"sourceName":"业余打发TV版","sourceUrl":"clan://localhost/业余影视/tv.json"},
+{"sourceName":"业余打发MB版","sourceUrl":"clan://localhost/业余影视/mb.json"},
 {"sourceName":"业余打发专属仓","sourceUrl":"https://pan.shangui.cc/f/XAyUd/zx.json"},
 {"sourceName":"业余打发日后仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
 {"sourceName":"业余打发奇奇仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
@@ -22,10 +23,10 @@
 {"sourceName":"展宁仓库","sourceUrl":"https://git.acwing.com/zn777/tvlive/-/raw/main/tvmck.json"},
 {"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
 
-{"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/0.php"},
-{"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/1.php"},
-//{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/2.php"},
-{"sourceName":"日后魔改仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/3.php"},
+{"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:55"},
+{"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:56"},
+//{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:57"},
+{"sourceName":"日后服务器+收集仓","sourceUrl":"http://rihou.cc:58"},
 
 {"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
 {"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
@@ -36,8 +37,8 @@
 {"sourceName":"公众仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck2.txt"},
 {"sourceName":"️聚合仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck3.txt"},
 
-{"sourceName": "⭐小胡影视仓库1⭐","sourceUrl":"https://xzam.cn:65/1"},
-{"sourceName": "⭐小胡影视仓库2⭐","sourceUrl":"https://xzam.cn:65/2"},
+{"sourceName": "⭐小胡影视仓库1⭐","sourceUrl":"http://smr.xzam.cn:66/1"},
+{"sourceName": "⭐小胡影视仓库2⭐","sourceUrl":"http://smr.xzam.cn:66/2"},
 
 {"sourceName":"💚秒播影视仓1","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c1.json"},
 {"sourceName":"💛秒播影视仓2","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c2.json"},
@@ -53,8 +54,7 @@
 
 {"sourceName": "安卓哥仓库","sourceUrl": "https://notabug.org/wuheng40/wh/raw/zy/ck/ck1/5.jpg"},
 {"sourceName":"雨滴单仓","sourceUrl":"http://快乐雨滴.club:63/牛逼"},
-{"sourceName": "八百仓","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
-{"sourceName": "鸡盒仓","sourceUrl":"http://tags.top/yuan.json"}
+{"sourceName": "八百仓","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"}
 
 //{"sourceName":"自定义H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh"},
 //{"sourceName":"云星H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh1"},
