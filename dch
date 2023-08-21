@@ -23,10 +23,10 @@
 {"sourceName":"展宁仓库","sourceUrl":"https://git.acwing.com/zn777/tvlive/-/raw/main/tvmck.json"},
 {"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
 
-{"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/0.php"},
-{"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/1.php"},
-//{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/2.php"},
-{"sourceName":"日后魔改仓","sourceUrl":"http://rihou.cc:66/%E5%A4%9A%E4%BB%93/3.php"},
+{"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:55"},
+{"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:56"},
+//{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:57"},
+{"sourceName":"日后服务器+收集仓","sourceUrl":"http://rihou.cc:58"},
 
 {"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
 {"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
