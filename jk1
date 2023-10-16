@@ -3,7 +3,7 @@
 [
 {"url":"https://agit.ai/W-TV/XM/raw/branch/master/XM.json","name":"免软资源"},
 {"url":"http://8.210.232.168/xc.json","name":"玉玉软件"},
-{"url":"https://gcore.jsdelivr.net/gh/zalman2022/MySpider@main/api/api.json","name":"影视资源站"},
+{"url":"https://ghproxy.com//https://raw.githubusercontent.com/zalman2022/MySpider/main/api/api.json","name":"影视资源站"},
 //{"url":"http://smr.xzam.cn:66/tv","name":"小胡分享"},
 //{"url":"https://www.tlam.cn/API/api","name":"透明API"},
 {"url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json","name":"T4荐片"},
