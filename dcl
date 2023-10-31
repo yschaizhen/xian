@@ -1,4 +1,4 @@
- {
+{
 "storeHouse":
 [
 //{"sourceName":"自定义①仓(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk"},
@@ -22,11 +22,12 @@
 {"sourceName": "观影仓库（备用）","sourceUrl":"https://pan.shangui.cc/f/Vq3XU8/%E5%AE%B6%E5%BA%AD%E4%BB%93%E5%BA%93%E6%8E%A5%E5%8F%A3_1.txt"},
 {"sourceName": "欧哥QQ频道","sourceUrl":"https://jihulab.com/bh666/YGBH/-/raw/main/dc2.json"},
 
-
 {"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:55"},
 {"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:56"},
-//{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:57"},
+{"sourceName":"心动日后单仓","sourceUrl":"http://rihou.vip:666"},
+{"sourceName":"心动车姐单仓","sourceUrl":"http://weixine.link:666"},
 {"sourceName":"日后服务器+收集仓","sourceUrl":"http://rihou.cc:58"},
+//{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:57"},
 
 {"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
 {"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
