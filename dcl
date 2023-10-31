@@ -12,7 +12,6 @@
 {"sourceName":"☁️云星本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
 {"sourceName":"业余打发TV版","sourceUrl":"clan://localhost/业余影视/tv.json"},
 {"sourceName":"业余打发MB版","sourceUrl":"clan://localhost/业余影视/mb.json"},
-{"sourceName":"业余打发专属仓","sourceUrl":"https://pan.shangui.cc/f/XAyUd/zx.json"},
 {"sourceName":"业余打发日后仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
 {"sourceName":"业余打发奇奇仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
 {"sourceName":"晓然云仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/huangziyu100224/TV/main/%E4%BA%91%E4%BB%93/%E4%BA%91%E4%BB%93.txt"},
