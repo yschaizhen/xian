@@ -16,8 +16,6 @@
 {"sourceName":"业余打发日后仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
 {"sourceName":"业余打发奇奇仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
 {"sourceName":"晓然云仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/huangziyu100224/TV/main/%E4%BA%91%E4%BB%93/%E4%BA%91%E4%BB%93.txt"},
-{"sourceName":"Calendre","sourceUrl":"https://gitee.com/wdc558/TVBox/raw/master/KuYuan/cangku1.json"},
-{"sourceName":"猎狼TV吧","sourceUrl":"http://tvbox.lltv8.top/"},
 {"sourceName":"白虾宝盒","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
 {"sourceName":"农作物仓库","sourceUrl":"https://jihulab.com/hami/stop/-/raw/main/%E5%86%9C%E4%BD%9C%E7%89%A9/%E7%A7%8D%E6%A4%8D.txt"},
 {"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
@@ -39,9 +37,6 @@
 {"sourceName":"公众仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck2.txt"},
 {"sourceName":"️聚合仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck3.txt"},
 
-{"sourceName": "⭐小胡影视仓库1⭐","sourceUrl":"http://smr.xzam.cn:66/1"},
-{"sourceName": "⭐小胡影视仓库2⭐","sourceUrl":"http://smr.xzam.cn:66/2"},
-
 {"sourceName":"💚秒播影视仓1","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c1.json"},
 {"sourceName":"💛秒播影视仓2","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c2.json"},
 {"sourceName":"❤️秒播影视仓3","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c3.json"},
@@ -62,7 +57,6 @@
 //{"sourceName":"云星H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh1"},
 //{"sourceName":"云星H仓(本地)","sourceUrl":"clan://localhost/TVBox/lib/99.json"},
 
-//{"sourceName": "⭐小胡影视仓库4⭐","sourceUrl":"https://agit.ai/xiaohu/tvbox/raw/branch/main/dc4"},
 //{"sourceName":"刘公子H仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"},
 //{"sourceName":"刘公子H1仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua1.json"},
 //{"sourceName": "私用H仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/65077/%E5%8D%95%E4%BB%93-A.json?sign=Vjbu0tD1POIrjOV1X7aF7Zvf8Ek2pPD_KvXV47i7EZw%3D%3A0"},
