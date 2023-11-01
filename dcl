@@ -10,17 +10,11 @@
 {"sourceName":"☁️云星在线仓库(本地)","sourceUrl":"clan://localhost/TVBox/lib/zx.json"},
 {"sourceName":"☁️云星本地仓库(在线)","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
 {"sourceName":"☁️云星本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
+
 {"sourceName":"业余打发TV版","sourceUrl":"clan://localhost/业余影视/tv.json"},
 {"sourceName":"业余打发MB版","sourceUrl":"clan://localhost/业余影视/mb.json"},
 {"sourceName":"业余打发日后仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
 {"sourceName":"业余打发奇奇仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
-{"sourceName":"晓然云仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/huangziyu100224/TV/main/%E4%BA%91%E4%BB%93/%E4%BA%91%E4%BB%93.txt"},
-{"sourceName":"白虾宝盒","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
-{"sourceName":"农作物仓库","sourceUrl":"https://jihulab.com/hami/stop/-/raw/main/%E5%86%9C%E4%BD%9C%E7%89%A9/%E7%A7%8D%E6%A4%8D.txt"},
-{"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
-{"sourceName": "观影仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/gyck.json"},
-{"sourceName": "观影仓库（备用）","sourceUrl":"https://pan.shangui.cc/f/Vq3XU8/%E5%AE%B6%E5%BA%AD%E4%BB%93%E5%BA%93%E6%8E%A5%E5%8F%A3_1.txt"},
-{"sourceName": "欧哥QQ频道","sourceUrl":"https://jihulab.com/bh666/YGBH/-/raw/main/dc2.json"},
 
 {"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:55"},
 {"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:56"},
@@ -34,9 +28,11 @@
 {"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
 {"sourceName":"🥕多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"},
 
-{"sourceName":"优选仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck1.txt"},
-{"sourceName":"公众仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck2.txt"},
-{"sourceName":"️聚合仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck3.txt"},
+{"sourceName":"🏆蚂蚁窝①🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/mayi1%E4%BB%93.txt"},
+{"sourceName":"🏆蚂蚁窝②🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/mayi2.txt"},
+{"sourceName":"🏆蚂蚁窝③🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/%EF%BB%BFmayi3.txt"},
+{"sourceName":"🏆蚂蚁窝④🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/%E4%BB%934.txt"},
+{"sourceName":"🏆蚂蚁窝⑤🎖","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
 
 {"sourceName":"💚秒播影视仓1","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c1.json"},
 {"sourceName":"💛秒播影视仓2","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c2.json"},
@@ -50,8 +46,21 @@
 {"sourceName": "人人资源3号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/65085/1.txt?sign=GfTz6Xy-qTIISJqSTirJB0I2bEg5K3RG7yMzJ5O89FY%3D%3A0"},
 {"sourceName": "人人资源4号仓","sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67736/2.txt?sign=_LOjeUn1PoIdckxhtgLBrPcem0LmpsXlDMgR47UkDcA%3D%3A0"},
 
+{"sourceName":"白虾宝盒","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
+{"sourceName":"农作物仓库","sourceUrl":"https://jihulab.com/hami/stop/-/raw/main/%E5%86%9C%E4%BD%9C%E7%89%A9/%E7%A7%8D%E6%A4%8D.txt"},
+{"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
+{"sourceName": "观影仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/gyck.json"},
+//{"sourceName": "观影仓库（备用）","sourceUrl":"https://pan.shangui.cc/f/Vq3XU8/%E5%AE%B6%E5%BA%AD%E4%BB%93%E5%BA%93%E6%8E%A5%E5%8F%A3_1.txt"},
+{"sourceName": "熊猫仓库","sourceUrl":"https://jihulab.com/bh666/YGBH/-/raw/main/dc2.json"},
+{"sourceName": "欧哥QQ频道","sourceUrl":"http://ghproxy.net/https://github.com/xmbjm/xmbjm/blob/main/xmbjmdc.json"},
+
+{"sourceName":"优选仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck1.txt"},
+{"sourceName":"公众仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck2.txt"},
+{"sourceName":"️聚合仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck3.txt"},
+
 {"sourceName": "安卓哥仓库","sourceUrl": "https://notabug.org/wuheng40/wh/raw/zy/ck/ck1/5.jpg"},
 {"sourceName":"雨滴单仓","sourceUrl":"http://快乐雨滴.club:63/牛逼"},
+{"sourceName":"晓然云仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/huangziyu100224/TV/main/%E4%BA%91%E4%BB%93/%E4%BA%91%E4%BB%93.txt"},
 {"sourceName": "八百仓","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"}
 
 //{"sourceName":"自定义H仓","sourceUrl":"https://ghproxy.net//https://raw.githubusercontent.com/yschaizhen/xian/main/jkh"},
