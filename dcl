@@ -23,6 +23,10 @@
 {"sourceName":"日后服务器+收集仓","sourceUrl":"http://rihou.cc:58"},
 //{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:57"},
 
+{"sourceName": "蓝色影视仓","sourceUrl":"https://codeberg.org/xvnhs/zeroVPN/raw/branch/zcgdb/cbhmd.json"},
+{"sourceName": "熊猫仓库","sourceUrl":"http://ghproxy.net/https://github.com/xmbjm/xmbjm/blob/main/xmbjmdc.json"},
+{"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
+
 {"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
 {"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
 {"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
@@ -48,13 +52,10 @@
 
 {"sourceName":"白虾宝盒","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
 {"sourceName":"农作物仓库","sourceUrl":"https://jihulab.com/hami/stop/-/raw/main/%E5%86%9C%E4%BD%9C%E7%89%A9/%E7%A7%8D%E6%A4%8D.txt"},
-{"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
+
 {"sourceName": "观影仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/gyck.json"},
 //{"sourceName": "观影仓库（备用）","sourceUrl":"https://pan.shangui.cc/f/Vq3XU8/%E5%AE%B6%E5%BA%AD%E4%BB%93%E5%BA%93%E6%8E%A5%E5%8F%A3_1.txt"},
-{"sourceName": "熊猫仓库","sourceUrl":"http://ghproxy.net/https://github.com/xmbjm/xmbjm/blob/main/xmbjmdc.json"},
 {"sourceName": "欧哥QQ频道","sourceUrl":"https://jihulab.com/bh666/YGBH/-/raw/main/dc2.json"},
-{"sourceName": "欧哥QQ频道1","sourceUrl":"https://codeberg.org/xvnhs/zeroVPN/raw/branch/zcgdb/cbhmd.json"},
-
 
 {"sourceName":"优选仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck1.txt"},
 {"sourceName":"公众仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck2.txt"},
