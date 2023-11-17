@@ -27,6 +27,7 @@
 {"sourceName":"蓝色影视仓","sourceUrl":"https://jihulab.com/xchbj123/zxvbndv/-/raw/main/蓝色影视.json"},
 {"sourceName":"熊猫仓库","sourceUrl":"http://ghproxy.net/https://github.com/xmbjm/xmbjm/blob/main/xmbjmdc.json"},
 {"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
+{"sourceName":"星星影视仓","sourceUrl":"https://gitee.com/myxkx/xxysckhj/raw/master/%E6%98%9F%E6%98%9F%E5%BD%B1%E8%A7%86%E4%BB%93%E5%BA%93%E5%90%88%E9%9B%86%EF%BD%9E.txt"},
 
 {"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
 {"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
