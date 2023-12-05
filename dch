@@ -24,7 +24,6 @@
 //{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:57"},
 
 {"sourceName":"砂锅仓库","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
-{"sourceName":"蓝色影视仓","sourceUrl":"https://jihulab.com/xchbj123/zxvbndv/-/raw/main/蓝色影视.json"},
 {"sourceName":"熊猫仓库","sourceUrl":"http://ghproxy.net/https://github.com/xmbjm/xmbjm/blob/main/xmbjmdc.json"},
 {"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
 {"sourceName":"小白龙","sourceUrl":"http://39.101.135.137:8686"},
