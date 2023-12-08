@@ -24,7 +24,7 @@
 //{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:57"},
 
 {"sourceName":"乐享汇fans","sourceUrl":"https://too.st/6s0"},
-{"sourceName":"拾光仓库","sourceUrl":"https://gh.con.sh/https://usercontent.githubfast.com/raw/xmbjm/xmbjm/main/xmbjmdc.json"},
+{"sourceName":"拾光仓库","sourceUrl":"https://usercontent.githubfast.com/raw/xmbjm/xmbjm/main/xmbjmdc.json"},
 {"sourceName":"cally仓库","sourceUrl":"https://s2.pub/callyck"},
 {"sourceName":"青木仓库","sourceUrl":"https://aoki.fun/tvbox/Aoki"},
 {"sourceName":"砂锅仓库","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
