@@ -23,6 +23,7 @@
 {"sourceName":"日后服务器+收集仓","sourceUrl":"http://rihou.cc:58"},
 //{"sourceName":"日后本地仓","sourceUrl":"http://rihou.cc:57"},
 
+{"sourceName":"拾光仓库","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
 {"sourceName":"cally仓库","sourceUrl":"https://s2.pub/callyck"},
 {"sourceName":"青木仓库","sourceUrl":"https://aoki.fun/tvbox/Aoki"},
 {"sourceName":"砂锅仓库","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
