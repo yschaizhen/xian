@@ -3,8 +3,8 @@
 [
 //{"sourceName":"自定义①仓(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk"},
 //{"sourceName":"自定义②仓(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk1"},
-{"sourceName":"自定义①仓","sourceUrl":"https://ghproxy.net//https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk"},
-{"sourceName":"自定义②仓","sourceUrl":"https://ghproxy.net//https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk1"},
+{"sourceName":"自定义①仓","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk"},
+{"sourceName":"自定义②仓","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk1"},
 
 {"sourceName":"☁️云星在线仓库","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"☁️云星在线仓库(本地)","sourceUrl":"clan://localhost/TVBox/lib/zx.json"},
@@ -29,7 +29,7 @@
 {"sourceName":"青木仓库","sourceUrl":"https://aoki.fun/tvbox/Aoki"},
 {"sourceName":"砂锅仓库","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
 {"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
-{"sourceName":"熊猫仓库","sourceUrl":"http://ghproxy.net/https://github.com/xmbjm/xmbjm/blob/main/xmbjmdc.json"},
+{"sourceName":"熊猫仓库","sourceUrl":"http://ghproxy.net/https://githubfast.com/xmbjm/xmbjm/blob/main/xmbjmdc.json"},
 {"sourceName":"小白龙","sourceUrl":"http://39.101.135.137:8686"},
 
 {"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
