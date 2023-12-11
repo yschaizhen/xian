@@ -11,8 +11,8 @@
 {"url":"http://饭太硬.top/tv","name":"饭太硬"},
 {"url":"https://ghproxy.net/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json","name":"霜辉明月py"},
 {"url":"https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天流云js"},
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name":"FongMi"},
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/Tangsan99999/-/master/newtang.bmp","name":"唐三"},
+{"url":"https://usercontent.githubfast.com/raw/FongMi/CatVodSpider/main/json/config.json","name":"FongMi"},
+{"url":"https://usercontent.githubfast.com/raw/Tangsan99999/-/master/newtang.bmp","name":"唐三"},
 {"url":"http://pandown.pro/tvbox/tvbox.json","name":"巧儿"},
 {"url":"http://home.jundie.top:81/top98.json","name":"俊哥"},
 {"url":"http://drpy.site/js1","name":"小雅"},
@@ -22,6 +22,6 @@
 {"url":"https://raw.iqiq.io/liu673cn/box/main/m.json","name":"刘老备"},
 {"url":"https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒","name":"月光宝盒"},    
 {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"南风"},
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json","name":"甜蜜"}
+{"url":"https://usercontent.githubfast.com/raw/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json","name":"甜蜜"}
 ]
 }
