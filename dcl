@@ -31,11 +31,6 @@
 {"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
 {"sourceName":"小白龙","sourceUrl":"http://39.101.135.137:8686"},
 
-{"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
-{"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
-{"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
-{"sourceName":"🥕多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"},
-
 {"sourceName":"🏆蚂蚁窝①🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/mayi1%E4%BB%93.txt"},
 {"sourceName":"🏆蚂蚁窝②🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/mayi2.txt"},
 {"sourceName":"🏆蚂蚁窝③🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/%EF%BB%BFmayi3.txt"},
