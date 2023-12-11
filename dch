@@ -29,6 +29,8 @@
 {"sourceName":"砂锅仓库","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
 {"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
 {"sourceName":"小白龙","sourceUrl":"http://39.101.135.137:8686"},
+{"sourceName":"恒星仓库","sourceUrl":"https://codeberg.org/hengxing/hx/raw/branch/main/xmyw%E2%80%9C1%E2%80%9D.txt"},
+{"sourceName":"心动仓库","sourceUrl":"https://codeberg.org/hengxing/hx/raw/branch/main/%E5%BF%83%E5%8A%A8%E4%BB%93%E5%BA%93.txt"},
 
 {"sourceName":"🏆蚂蚁窝①🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/mayi1%E4%BB%93.txt"},
 {"sourceName":"🏆蚂蚁窝②🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/mayi2.txt"},
