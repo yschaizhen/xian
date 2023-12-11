@@ -17,10 +17,8 @@
 {"sourceName":"业余打发奇奇仓","sourceUrl":"https://usercontent.githubfast.com/raw/yyfxz/qqtv/main/qq.json"},
 
 {"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:55"},
-{"sourceName":"日后网络收集仓","sourceUrl":"http://rihou.cc:56"},
 {"sourceName":"心动日后单仓","sourceUrl":"http://rihou.vip:666"},
 {"sourceName":"心动车姐单仓","sourceUrl":"http://weixine.link:666"},
-{"sourceName":"日后服务器+收集仓","sourceUrl":"http://rihou.cc:58"},
 
 {"sourceName":"乐享汇fans1服","sourceUrl":"https://usercontent.githubfast.com/raw/lxhfans/TV/master/zx1.json"},
 {"sourceName":"乐享汇fans2服","sourceUrl":"https://usercontent.githubfast.com/raw/lxhfans/TV/master/zx.json"},
