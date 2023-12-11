@@ -11,8 +11,7 @@
 {"sourceName":"☁️云星本地仓库(在线)","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/本地.json"},
 {"sourceName":"☁️云星本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
 
-{"sourceName":"业余打发TV版","sourceUrl":"clan://localhost/业余影视/tv.json"},
-{"sourceName":"业余打发MB版","sourceUrl":"clan://localhost/业余影视/mb.json"},
+{"sourceName":"业余打发（本地）","sourceUrl":"clan://localhost/yydf/api.json},
 {"sourceName":"业余打发日后仓","sourceUrl":"https://usercontent.githubfast.com/raw/yyfxz/yyrh/main/fxz.json"},
 {"sourceName":"业余打发奇奇仓","sourceUrl":"https://usercontent.githubfast.com/raw/yyfxz/qqtv/main/qq.json"},
 
