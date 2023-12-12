@@ -2,6 +2,8 @@
 "urls": 
 [
 {"url":"https://agit.ai/W-TV/XM/raw/branch/master/XM.json","name":"免软资源"},
+{"url":"http://qrh.yimkj.cn/al/%E9%98%BF%E9%87%8C.json","name":"阿里专线1"},
+{"url":"https://pan.shangui.cc/f/4LBAF0/ali.json","name":"阿里专线2"},
 {"url":"http://8.210.232.168/xc.json","name":"玉玉软件"},
 {"url":"https://api.zalman2022.repl.co/api.json","name":"影视资源站"},
 {"url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json","name":"业余打发"},
@@ -23,7 +25,6 @@
 {"url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json","name":"T4荐片"},
 {"url":"https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt","name":"影迷接口"},
 {"url":"https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt","name":"教育专线"},
-{"url":"http://qrh.yimkj.cn/al/%E9%98%BF%E9%87%8C.json","name":"阿里专线"},
 {"url":"http://vip.weixine.link:88/","name":"运输车公益接口"},
 {"url":"https://weixine.net/ysc.json","name":"运输车主线"},
 {"url":"http://rihou.vip:88/荷城茶秀", "name":"荷城茶秀⑧⑧接口㊣"},
