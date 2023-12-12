@@ -69,37 +69,13 @@
 //{"sourceName":"刘公子H1仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua1.json"},
 //{"sourceName": "私用H仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/65077/%E5%8D%95%E4%BB%93-A.json?sign=Vjbu0tD1POIrjOV1X7aF7Zvf8Ek2pPD_KvXV47i7EZw%3D%3A0"},
 
-//{"sourceName":"自用成人仓","sourceUrl":"https://usercontent.githubfast.com/raw/mengzehe/tvbox/main/18.json"},
 //{"sourceName":"大烟管18","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"},
-
 //{"sourceName":"🏆绿茶①🏆","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/68875/%E7%BB%BF%E8%8C%B62.txt?sign=LFLHEA346oBByMf_r92ak2OLwWQze5RKcSCeFVfSkgw%3D%3A0"},
 //{"sourceName":"🏆绿茶②🏆","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"},
 //{"sourceName":"🏆绿茶③🏆","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/71443/%E7%A6%8F%E5%88%A9%E5%8D%95%E4%BB%93.txt?sign=dcjX-jM4UZ34KMCiXtxf2bjnUB2kq85f0N9SI5kjzCg%3D%3A0"},
 //{"sourceName":"🏆绿茶④🏆","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B63.txt?sign=baO6aqW2E4MdRJpIjaJCvuj3UZ2T5lAGp1LlLcM9GPU%3D%3A0"},
 
-//{"sourceName":"🏆fj🏆","sourceUrl":"https://notabug.org/wuheng40/wh/raw/zy/ck/ck1/6.jpg"},
-//{"sourceName":"🏆大人仓🏆","sourceUrl":"http://rico.migoa.cn/影视仓/仓库.json"}
-
-//{"sourceName":"派大星①号库","sourceUrl":"https://box.nxog.top/1"},
-//{"sourceName":"派大星②号库","sourceUrl":"https://box.nxog.top/2"},
-//{"sourceName":"派大星③号库","sourceUrl":"https://box.nxog.top/3"},
-//{"sourceName":"派大星④号库","sourceUrl":"https://box.nxog.top/4"},
-//{"sourceName":"派大星⑤号库","sourceUrl":"https://box.nxog.top/5"},
-//{"sourceName":"派大星⑥号库","sourceUrl":"https://box.nxog.top/6"},
-//{"sourceName":"派大星⑦号库","sourceUrl":"https://box.nxog.top/7"},
-//{"sourceName":"派大星⑧号库","sourceUrl":"https://box.nxog.top/8"},
-//{"sourceName":"派大星⑨号库","sourceUrl":"https://box.nxog.top/9"},
-//{"sourceName":"派大星⑪号库","sourceUrl":"https://box.nxog.top/10"},
-//{"sourceName":"派大星⑪号库","sourceUrl":"https://box.nxog.top/11"},
-//{"sourceName":"派大星⑫号库","sourceUrl":"https://box.nxog.top/12"},
-//{"sourceName":"派大星⑬号库","sourceUrl":"https://box.nxog.top/13"},
-//{"sourceName":"派大星⑭号库","sourceUrl":"https://box.nxog.top/14"},
-//{"sourceName":"派大星⑮号库","sourceUrl":"https://box.nxog.top/15"},
-//{"sourceName":"派大星⑯号库","sourceUrl":"https://box.nxog.top/16"},
-//{"sourceName":"派大星⑰号库","sourceUrl":"https://box.nxog.top/17"},
-//{"sourceName":"派大星⑱号库","sourceUrl":"https://box.nxog.top/18"},
-//{"sourceName":"派大星⑲号库","sourceUrl":"https://box.nxog.top/19"},
-//{"sourceName":"派大星⑳号库","sourceUrl":"https://box.nxog.top/20"}
+//{"sourceName":"🏆fj🏆","sourceUrl":"https://notabug.org/wuheng40/wh/raw/zy/ck/ck1/6.jpg"}
 
 ]
 }
