@@ -1,10 +1,11 @@
 {
 "storeHouse":
 [
-//{"sourceName":"自定义①仓(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk"},
-//{"sourceName":"自定义②仓(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk1"},
-{"sourceName":"自定义①仓","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk"},
-{"sourceName":"自定义②仓","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk1"},
+//{"sourceName":"仓库①(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk"},
+//{"sourceName":"仓库②(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk1"},
+{"sourceName":"仓库①","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk"},
+{"sourceName":"仓库②","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk1"},
+{"sourceName":"仓库③","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk2"},
 
 {"sourceName":"☁️云星在线仓库","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"☁️云星在线仓库(本地)","sourceUrl":"clan://localhost/TVBox/lib/zx.json"},
