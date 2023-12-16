@@ -3,6 +3,7 @@
 [
 {"url":"http://qrh.yimkj.cn/al/阿里.json","name":"阿里专线1"},
 {"url":"https://pan.shangui.cc/f/4LBAF0/ali.json","name":"阿里专线2"},
+{"url":"https://codeberg.org/looktv/4K/raw/branch/main/4k.json","name":"畅想影视4K"},
 {"url":"https://codeberg.org/looktv/zy/raw/branch/main/vip.qqqwww.json","name":"4K接口1"},
 {"url":"https://codeberg.org/looktv/my/raw/branch/main/ck.json","name":"4K接口2"},
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"qiaoji8"},
