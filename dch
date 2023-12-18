@@ -40,9 +40,10 @@
 {"sourceName":"欧哥QQ频道","sourceUrl":"https://jihulab.com/bh666/YGBH/-/raw/main/dc2.json"},
 {"sourceName":"晓然云仓","sourceUrl":"https://usercontent.githubfast.com/raw/huangziyu100224/TV/main/%E4%BA%91%E4%BB%93/%E4%BA%91%E4%BB%93.txt"},
 
-{"sourceName":"优选仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck1.txt"},
-{"sourceName":"公众仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck2.txt"},
-{"sourceName":"️聚合仓","sourceUrl":"https://jihulab.com/tv5/zz/-/raw/main/ck3.txt"},
+{"sourceName":"💚多多优选仓🍭","sourceUrl":"https://duo.codered.cloud/ck/a.txt"},
+{"sourceName":"💛多多公众仓🍭","sourceUrl":"https://duo.codered.cloud/ck/b.txt"},
+{"sourceName":"❤️多多聚合仓🍭","sourceUrl":"https://duo.codered.cloud/ck/c.txt"},
+{"sourceName":"💜多多预备仓🍭","sourceUrl":"https://duo.codered.cloud/ck/d.txt"},
 
 {"sourceName":"🏆蚂蚁窝①🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/mayi1%E4%BB%93.txt"},
 {"sourceName":"🏆蚂蚁窝②🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/mayi2.txt"},
