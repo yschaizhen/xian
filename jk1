@@ -1,12 +1,13 @@
 {
 "urls": 
 [
+{"url":"https://api.zalman2022.repl.co/api.json","name":"影视资源站"},
+{"url":"https://123.155123.xyz/996.json","name":"996影视"},
 {"url":"https://agit.ai/W-TV/XM/raw/branch/master/XM.json","name":"免软资源"},
+{"url":"https://gitee.com/bestpvp/tm/raw/master/source/stable/main.json","name":"码上看"},
 {"url":"http://111.67.196.189/tvbox/thdjk.json","name":"挺好分享"},
 {"url":"http://xiaohu.xzam.cn/xiaohu","name":"小胡新路线"},
-{"url":"https://api.zalman2022.repl.co/api.json","name":"影视资源站"},
 {"url":"http://meowtv.cn/tv","name":"MeowTV BOX"},
-{"url":"https://123.155123.xyz/996.json","name":"996影视"},
 {"url":"http://svip.weixine.net:88/uploads/itvbox/svip.json ","name":"车嫂VIP"},
 {"url":"https://usercontent.githubfast.com/raw/guot55/YGBH/main/vip2.json","name":"宝盒vip专享"},
 {"url":"https://tvbox.cainisi.cf/","name":"FongMi"},
