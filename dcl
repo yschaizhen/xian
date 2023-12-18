@@ -63,21 +63,6 @@
 {"sourceName":"人人资源3号仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/65085/1.txt?sign=GfTz6Xy-qTIISJqSTirJB0I2bEg5K3RG7yMzJ5O89FY%3D%3A0"},
 {"sourceName":"人人资源4号仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67736/2.txt?sign=_LOjeUn1PoIdckxhtgLBrPcem0LmpsXlDMgR47UkDcA%3D%3A0"}
 
-//{"sourceName":"自定义H仓","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jkh"},
-//{"sourceName":"云星H仓","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jkh1"},
-//{"sourceName":"云星H仓(本地)","sourceUrl":"clan://localhost/TVBox/lib/99.json"},
-
-//{"sourceName":"刘公子H仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua2.json"},
-//{"sourceName":"刘公子H1仓","sourceUrl":"https://agit.ai/yschaizhen/TVBox/raw/branch/master/huahua1.json"},
-//{"sourceName": "私用H仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/65077/%E5%8D%95%E4%BB%93-A.json?sign=Vjbu0tD1POIrjOV1X7aF7Zvf8Ek2pPD_KvXV47i7EZw%3D%3A0"},
-
-//{"sourceName":"大烟管18","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"},
-//{"sourceName":"🏆绿茶①🏆","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/68875/%E7%BB%BF%E8%8C%B62.txt?sign=LFLHEA346oBByMf_r92ak2OLwWQze5RKcSCeFVfSkgw%3D%3A0"},
-//{"sourceName":"🏆绿茶②🏆","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"},
-//{"sourceName":"🏆绿茶③🏆","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/71443/%E7%A6%8F%E5%88%A9%E5%8D%95%E4%BB%93.txt?sign=dcjX-jM4UZ34KMCiXtxf2bjnUB2kq85f0N9SI5kjzCg%3D%3A0"},
-//{"sourceName":"🏆绿茶④🏆","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B63.txt?sign=baO6aqW2E4MdRJpIjaJCvuj3UZ2T5lAGp1LlLcM9GPU%3D%3A0"},
-
-//{"sourceName":"🏆fj🏆","sourceUrl":"https://notabug.org/wuheng40/wh/raw/zy/ck/ck1/6.jpg"}
 
 ]
 }
