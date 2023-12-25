@@ -25,6 +25,7 @@
 {"sourceName":"乐享汇fans2服","sourceUrl":"https://usercontent.githubfast.com/raw/lxhfans/TV/master/zx.json"},
 {"sourceName":"乐享汇fans3服","sourceUrl":"https://notabug.org/lxhfans/TV/raw/master/zx.json"},
 {"sourceName":"乐享汇fans4服","sourceUrl":"https://jihulab.com/lxhfans/TV/-/raw/master/zx.json"},
+{"sourceName":"挺好分享","sourceUrl":"https://usercontent.githubfast.com/raw/ZTHA000/tvbox/main/gyck.json"},
 {"sourceName":"拾光仓库","sourceUrl":"https://usercontent.githubfast.com/raw/xmbjm/xmbjm/main/xmbjmdc.json"},
 {"sourceName":"cally仓库","sourceUrl":"https://s2.pub/callyck"},
 {"sourceName":"青木仓库","sourceUrl":"https://aoki.fun/tvbox/Aoki"},
