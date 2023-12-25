@@ -37,7 +37,6 @@
 {"sourceName":"欧哥仓库","sourceUrl":"http://m.nxog.top/api1.php?mz=m&id=2&b=安卓哥粉丝"},
 
 {"sourceName":"农作物仓库","sourceUrl":"https://jihulab.com/hami/stop/-/raw/main/%E5%86%9C%E4%BD%9C%E7%89%A9/%E7%A7%8D%E6%A4%8D.txt"},
-{"sourceName":"观影仓库","sourceUrl":"https://usercontent.githubfast.com/raw/ZTHA000/tvbox/main/gyck.json"},
 {"sourceName":"欧哥QQ频道","sourceUrl":"https://jihulab.com/bh666/YGBH/-/raw/main/dc2.json"},
 {"sourceName":"晓然云仓","sourceUrl":"https://usercontent.githubfast.com/raw/huangziyu100224/TV/main/%E4%BA%91%E4%BB%93/%E4%BA%91%E4%BB%93.txt"},
 
