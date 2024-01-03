@@ -32,8 +32,6 @@
 {"sourceName":"砂锅仓库","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
 {"sourceName":"运输车仓库","sourceUrl":"https://weixine.net/api.json"},
 {"sourceName":"小白龙","sourceUrl":"http://39.101.135.137:8686"},
-{"sourceName":"恒星仓库","sourceUrl":"https://codeberg.org/hengxing/hx/raw/branch/main/xmyw%E2%80%9C1%E2%80%9D.txt"},
-{"sourceName":"心动仓库","sourceUrl":"https://codeberg.org/hengxing/hx/raw/branch/main/%E5%BF%83%E5%8A%A8%E4%BB%93%E5%BA%93.txt"},
 {"sourceName":"欧哥仓库","sourceUrl":"http://m.nxog.top/api1.php?mz=m&id=2&b=安卓哥粉丝"},
 
 {"sourceName":"农作物仓库","sourceUrl":"https://jihulab.com/hami/stop/-/raw/main/%E5%86%9C%E4%BD%9C%E7%89%A9/%E7%A7%8D%E6%A4%8D.txt"},
@@ -44,12 +42,6 @@
 {"sourceName":"💛多多公众仓🍭","sourceUrl":"https://duo.codered.cloud/ck/b.txt"},
 {"sourceName":"❤️多多聚合仓🍭","sourceUrl":"https://duo.codered.cloud/ck/c.txt"},
 {"sourceName":"💜多多预备仓🍭","sourceUrl":"https://duo.codered.cloud/ck/d.txt"},
-
-{"sourceName":"🏆蚂蚁窝①🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/mayi1%E4%BB%93.txt"},
-{"sourceName":"🏆蚂蚁窝②🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/mayi2.txt"},
-{"sourceName":"🏆蚂蚁窝③🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/%EF%BB%BFmayi3.txt"},
-{"sourceName":"🏆蚂蚁窝④🎖","sourceUrl":"https://codeberg.org/xinghe/MYWC/raw/branch/main/%E4%BB%934.txt"},
-{"sourceName":"🏆蚂蚁窝⑤🎖","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
 
 {"sourceName":"💚秒播影视仓1","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c1.json"},
 {"sourceName":"💛秒播影视仓2","sourceUrl":"https://agit.ai/cx/c/raw/branch/master/c2.json"},
