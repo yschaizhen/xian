@@ -1,7 +1,7 @@
 {
 "urls": 
 [
-{"url":"https://tvbox.cam/v3api.json","name":"影视资源站"},
+{"url":"http://bp.tvbox.cam","name":"影视资源站"},
 {"url":"http://8.210.232.168/fm/1.json","name":"玉玉软件"},
 {"url":"https://123.155123.xyz/996.json","name":"996影视"},
 {"url":"https://agit.ai/W-TV/XM/raw/branch/master/XM.json","name":"免软资源"},
