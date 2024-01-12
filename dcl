@@ -21,8 +21,8 @@
 {"sourceName":"心动日后单仓","sourceUrl":"http://rihou.vip:666"},
 {"sourceName":"心动车姐单仓","sourceUrl":"http://weixine.link:666"},
 
-{"sourceName":"乐享汇fans1服","sourceUrl":"https://usercontent.githubfast.com/raw/lxhfans/TV/master/zx1.json"},
-{"sourceName":"乐享汇fans2服","sourceUrl":"https://usercontent.githubfast.com/raw/lxhfans/TV/master/zx.json"},
+{"sourceName":"乐享汇fans1服","sourceUrl":"https://usercontent.githubfast.com/raw/lxhfans/fans/master/zx1.json"},
+{"sourceName":"乐享汇fans2服","sourceUrl":"https://usercontent.githubfast.com/raw/lxhfans/fans/master/zx.json"},
 {"sourceName":"乐享汇fans3服","sourceUrl":"https://notabug.org/lxhfans/TV/raw/master/zx.json"},
 {"sourceName":"乐享汇fans4服","sourceUrl":"https://jihulab.com/lxhfans/TV/-/raw/master/zx.json"},
 
