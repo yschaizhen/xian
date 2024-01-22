@@ -32,7 +32,7 @@
 
 {"sourceName":"shangyunvip","sourceUrl":"https://atomgit.com/shangyunvip/yingshicang/raw/master/shangyunvip.json"},
 
-{"sourceName":"挺好分享","sourceUrl":"https://usercontent.githubfast.com/raw/ZTHA000/tvbox/main/gyck.json"},
+{"sourceName":"挺好分享","sourceUrl":"http://ztha.top/TVBox/GYCK.json"},
 {"sourceName":"拾光仓库","sourceUrl":"https://usercontent.githubfast.com/raw/xmbjm/xmbjm/main/xmbjmdc.json"},
 {"sourceName":"cally仓库","sourceUrl":"https://s2.pub/callyck"},
 {"sourceName":"青木仓库","sourceUrl":"https://aoki.fun/tvbox/Aoki"},
