@@ -26,6 +26,8 @@
 {"sourceName":"🌏祥子网络仓二","sourceUrl":"http://xzweb.top/cs/影视接口/jk2.txt"},
 
 {"sourceName":"天微多仓","sourceUrl":"https://tvkj.top/DC.txt"},
+{"sourceName":"🍠地瓜妹妹🍠香港主仓","sourceUrl":"https://www.qiqiguai.cn/tv/1"},
+{"sourceName":"🍠地瓜妹妹🍠备用仓1","sourceUrl":"https://www.qiqiguai.cn/tv/2"},
 {"sourceName":"shangyunvip","sourceUrl":"https://atomgit.com/shangyunvip/yingshicang/raw/master/shangyunvip.json"},
 
 {"sourceName":"挺好分享","sourceUrl":"http://ztha.top/TVBox/GYCK.json"},
