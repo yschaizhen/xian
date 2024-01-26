@@ -21,15 +21,11 @@
 {"sourceName":"心动日后单仓","sourceUrl":"http://rihou.vip:666"},
 {"sourceName":"心动车姐单仓","sourceUrl":"http://weixine.link:666"},
 
-{"sourceName":"乐享汇fans1服","sourceUrl":"https://usercontent.githubfast.com/raw/lxhfans/fans/master/zx1.json"},
-{"sourceName":"乐享汇fans2服","sourceUrl":"https://usercontent.githubfast.com/raw/lxhfans/fans/master/zx.json"},
-{"sourceName":"乐享汇fans3服","sourceUrl":"https://notabug.org/lxhfans/TV/raw/master/zx.json"},
-{"sourceName":"乐享汇fans4服","sourceUrl":"https://jihulab.com/lxhfans/TV/-/raw/master/zx.json"},
-
 {"sourceName":"👿祥子应用仓","sourceUrl":"http://xzweb.top/cs/影视接口/jk.txt"},
 {"sourceName":"🌏祥子网络仓一","sourceUrl":"http://xzweb.top/cs/影视接口/wljk.json"},
 {"sourceName":"🌏祥子网络仓二","sourceUrl":"http://xzweb.top/cs/影视接口/jk2.txt"},
 
+{"sourceName":"天微多仓","sourceUrl":"https://tvkj.top/DC.txt"},
 {"sourceName":"shangyunvip","sourceUrl":"https://atomgit.com/shangyunvip/yingshicang/raw/master/shangyunvip.json"},
 
 {"sourceName":"挺好分享","sourceUrl":"http://ztha.top/TVBox/GYCK.json"},
