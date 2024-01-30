@@ -3,9 +3,9 @@
 [
 //{"sourceName":"仓库①(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk"},
 //{"sourceName":"仓库②(gitmirror)","sourceUrl":"https://raw.gitmirror.com/yschaizhen/xian/main/jk1"},
-{"sourceName":"仓库①","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk"},
-{"sourceName":"仓库②","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk1"},
-{"sourceName":"仓库③","sourceUrl":"https://usercontent.githubfast.com/raw/yschaizhen/xian/main/jk2"},
+{"sourceName":"仓库①","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/jk"},
+{"sourceName":"仓库②","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/jk1"},
+{"sourceName":"仓库③","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/xian/main/jk2"},
 
 {"sourceName":"☁️云星在线仓库","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"☁️云星在线仓库(本地)","sourceUrl":"clan://localhost/TVBox/lib/zx.json"},
@@ -14,8 +14,8 @@
 
 {"sourceName":"业余打发（在线）","sourceUrl":"http://yydf.540734621.xyz/yydf/yydf/yydf.json"},
 {"sourceName":"业余打发（本地）","sourceUrl":"clan://localhost/yydf/yydf.json"},
-{"sourceName":"业余打发日后仓","sourceUrl":"https://usercontent.githubfast.com/raw/yyfxz/yyrh/main/fxz.json"},
-{"sourceName":"业余打发奇奇仓","sourceUrl":"https://usercontent.githubfast.com/raw/yyfxz/qqtv/main/qq.json"},
+{"sourceName":"业余打发日后仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
+{"sourceName":"业余打发奇奇仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
 
 {"sourceName":"日后服务器仓","sourceUrl":"http://rihou.cc:55"},
 {"sourceName":"心动日后单仓","sourceUrl":"http://rihou.vip:666"},
@@ -31,7 +31,7 @@
 {"sourceName":"shangyunvip","sourceUrl":"https://atomgit.com/shangyunvip/yingshicang/raw/master/shangyunvip.json"},
 
 {"sourceName":"挺好分享","sourceUrl":"http://ztha.top/TVBox/GYCK.json"},
-{"sourceName":"拾光仓库","sourceUrl":"https://usercontent.githubfast.com/raw/xmbjm/xmbjm/main/xmbjmdc.json"},
+{"sourceName":"拾光仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
 {"sourceName":"cally仓库","sourceUrl":"https://s2.pub/callyck"},
 {"sourceName":"青木仓库","sourceUrl":"https://aoki.fun/tvbox/Aoki"},
 {"sourceName":"砂锅仓库","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
@@ -41,7 +41,7 @@
 
 {"sourceName":"农作物仓库","sourceUrl":"https://jihulab.com/hami/stop/-/raw/main/%E5%86%9C%E4%BD%9C%E7%89%A9/%E7%A7%8D%E6%A4%8D.txt"},
 {"sourceName":"欧哥QQ频道","sourceUrl":"https://jihulab.com/bh666/YGBH/-/raw/main/dc2.json"},
-{"sourceName":"晓然云仓","sourceUrl":"https://usercontent.githubfast.com/raw/huangziyu100224/TV/main/%E4%BA%91%E4%BB%93/%E4%BA%91%E4%BB%93.txt"},
+{"sourceName":"晓然云仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/huangziyu100224/TV/main/%E4%BA%91%E4%BB%93/%E4%BA%91%E4%BB%93.txt"},
 
 {"sourceName":"💚多多优选仓🍭","sourceUrl":"https://duo.codered.cloud/ck/c1.txt"},
 {"sourceName":"💛多多公众仓🍭","sourceUrl":"https://duo.codered.cloud/ck/c2.txt"},
