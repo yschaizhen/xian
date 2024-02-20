@@ -25,6 +25,7 @@
 {"sourceName":"🌏祥子网络仓一","sourceUrl":"http://xzweb.top/cs/影视接口/wljk.json"},
 {"sourceName":"🌏祥子网络仓二","sourceUrl":"http://xzweb.top/cs/影视接口/jk2.txt"},
 
+{"sourceName":"shangyunvip","sourceUrl":"https://gitee.com/shangyunvip/yingshicang/raw/master/shangyunvip.json"},
 {"sourceName":"LZ","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/jay881029/jaylining520/main/%E8%87%AA%E7%94%A8.json"},
 {"sourceName":"天微多仓","sourceUrl":"https://tvkj.top/DC.txt"},
 {"sourceName":"🍠地瓜妹妹🍠香港主仓","sourceUrl":"https://www.qiqiguai.cn/tv/1"},
