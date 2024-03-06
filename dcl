@@ -27,7 +27,6 @@
 
 {"sourceName":"5iClub","sourceUrl":"https://raw.gitmirror.com/Crap996/TVBox/main/5iClub.TV"},
 {"sourceName":"shangyunvip","sourceUrl":"https://gitee.com/shangyunvip/yingshicang/raw/master/shangyunvip.json"},
-{"sourceName":"shangyunvip1","sourceUrl":"https://atomgit.com/shangyunvip/yingshicang/raw/master/shangyunvip.json"},
 {"sourceName":"LZ","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/jay881029/jaylining520/main/%E8%87%AA%E7%94%A8.json"},
 {"sourceName":"天微多仓","sourceUrl":"https://tvkj.top/DC.txt"},
 {"sourceName":"🍠地瓜妹妹🍠香港主仓","sourceUrl":"https://www.qiqiguai.cn/tv/1"},
@@ -42,7 +41,6 @@
 {"sourceName":"小白龙","sourceUrl":"http://39.101.135.137:8686"},
 {"sourceName":"欧哥仓库","sourceUrl":"http://m.nxog.top/api1.php?mz=m&id=2&b=安卓哥粉丝"},
 
-{"sourceName":"农作物仓库","sourceUrl":"https://jihulab.com/hami/stop/-/raw/main/%E5%86%9C%E4%BD%9C%E7%89%A9/%E7%A7%8D%E6%A4%8D.txt"},
 {"sourceName":"欧哥QQ频道","sourceUrl":"https://jihulab.com/bh666/YGBH/-/raw/main/dc2.json"},
 {"sourceName":"晓然云仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/huangziyu100224/TV/main/%E4%BA%91%E4%BB%93/%E4%BA%91%E4%BB%93.txt"},
 
