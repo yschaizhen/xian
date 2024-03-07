@@ -25,6 +25,8 @@
 {"sourceName":"🌏祥子网络仓一","sourceUrl":"http://xzweb.top/cs/影视接口/wljk.json"},
 {"sourceName":"🌏祥子网络仓二","sourceUrl":"http://xzweb.top/cs/影视接口/jk2.txt"},
 
+
+{"sourceName":"摸鱼多仓","sourceUrl":"http://小鱼干.摸鱼儿.top"},
 {"sourceName":"5iClub","sourceUrl":"https://raw.gitmirror.com/Crap996/TVBox/main/5iClub.TV"},
 {"sourceName":"shangyunvip","sourceUrl":"https://gitee.com/shangyunvip/yingshicang/raw/master/shangyunvip.json"},
 {"sourceName":"LZ","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/jay881029/jaylining520/main/%E8%87%AA%E7%94%A8.json"},
