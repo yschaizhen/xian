@@ -1,8 +1,7 @@
 {
 "urls": 
 [
-{"url":"http://qrh.yimkj.cn/al/阿里.json","name":"阿里专线1"},
-{"url":"https://pan.shangui.cc/f/4LBAF0/ali.json","name":"阿里专线2"},
+{"url":"https://pan.shangui.cc/f/4LBAF0/ali.json","name":"阿里专线"},
 {"url":"http://lin.ohphp.com/1/my.json","name":"畅影随行"},
 {"url":"http://lin.ohphp.com/2/tvkj.json","name":"畅影随行1"},
 {"url":"http://lin.ohphp.com/da/bao.json","name":"畅影随行2"},
