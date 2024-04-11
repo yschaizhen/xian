@@ -29,6 +29,7 @@
 {"sourceName":"shangyunvip","sourceUrl":"https://gitee.com/shangyunvip/yingshicang/raw/master/shangyunvip.json"},
 {"sourceName":"LZ","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/jay881029/jaylining520/main/%E8%87%AA%E7%94%A8.json"},
 {"sourceName":"天微多仓","sourceUrl":"https://tvkj.top/DC.txt"},
+{"sourceName":"券票圈","sourceUrl":"http://tv.apehn.com/xla.json"},
 {"sourceName":"🍠地瓜妹妹🍠香港主仓","sourceUrl":"https://www.qiqiguai.cn/tv/1"},
 {"sourceName":"🍠地瓜妹妹🍠备用仓1","sourceUrl":"https://www.qiqiguai.cn/tv/2"},
 
